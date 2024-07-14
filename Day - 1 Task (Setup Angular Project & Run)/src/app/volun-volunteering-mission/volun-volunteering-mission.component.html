@@ -1,0 +1,362 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<div>
+  <app-navbar></app-navbar>
+  <app-searchin-sorting></app-searchin-sorting>
+</div>
+<div class="container">
+  <div class="row" style="height: 650px;">
+      <div class="col-sm-6">
+        <ngx-gallery [options]="galleryOptions" [images]="galleryImages" class="ngx-gallery"></ngx-gallery>
+      </div>
+      <div class="col-sm-6 content">
+        <p class="heading">{{missionDetail.missionTitle}}</p>
+          <p class="detail"> {{missionDetail.missionDescription}}</p>
+              <div class="mt-5">
+                <div class="bordert">
+                  <div class="totalTree">
+                      <p class="totalTreegoal" *ngIf="missionDetail.missionType=='Goal'">Plant 10,000 Trees</p>
+                      <p class="totalTreetime" *ngIf="missionDetail.missionType=='Time'">FROM {{missionDetail.startDate | date : 'dd/MM/yyyy'}} Until {{missionDetail.endDate | date:'dd/MM/yyyy'}}</p>
+                  </div>
+              </div>
+                <div class="SeatDeadLines row">
+                  <div class="col-sm-6">
+                    <img src="assets/Img/Seats-left.png">&nbsp;
+                    <span style="font-size: 24px !important;">{{missionDetail.totalSheets}}</span> <br/><span style="margin-left:40px">Seats left</span>
+                  </div>
+                  <div class="col-sm-6" *ngIf="missionDetail.missionType=='Goal'">
+                    <img src="assets/Img/achieved.png">&nbsp;
+                    <span style="font-size: 24px !important;">
+                      <div class="progress">
+                        <div class="progress-bar bg-warning" role="progressbar" style="width: 50%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                      </div>
+                    </span> <br/><span style="margin-left:40px;">8000 achieved</span>
+                    <br/><br/>
+                  </div>
+                  <div class="col-sm-6" *ngIf="missionDetail.missionType=='Time'">
+                    <img src="assets/Img/deadline.png">&nbsp;
+                    <span style="font-size: 24px !important;">{{missionDetail.registrationDeadLine | date: 'dd/MM/yyyy'}}</span> <br/><span style="margin-left:40px">Deadline</span>
+                    <br/><br/>
+                  </div>
+              </div>
+              <p style="width:616px;margin: 20px 100px 0px 61px;border:1px solid #757575;opacity: 0.1;"></p>
+              <div class="row">
+                    <div class="col-sm-6">
+                       <button class="btnMission"><span (click)="MissionFavourite(missionDetail.id)"><img style="width: 30px;" src="{{missionDetail.missionFavouriteStatus=='0'? favImag : favImag1}}" alt="NoImage"></span><span class="Mission">Add to Favourite</span></button>
+                    </div>
+                     <div class="col-sm-6">
+                          <button class="btnMission"><span><img src="assets/Img/add1.png" alt="NoImage"></span><span class="Mission">Recommend to a Co-Worker </span></button>
+                     </div>
+               </div>
+               <div class="totalRating">
+                  <span class="fa fa-star"></span>
+                  <span class="fa fa-star"></span>
+                  <span class="fa fa-star"></span>
+                  <span class="fa fa-star"></span>
+                  <span class="fa fa-star"></span>
+              </div>
+              <div class="row">
+                <div class="col-sm-3 carddetail">
+                  <div class="top-left"><img src="assets/Img/pin1.png" alt="NoImage"></div>
+                  <div class="bottom-left"><span style=" color:#757575 !important;">City</span><br/><span>{{missionDetail.cityName}}</span></div>
+                </div>
+                <div class="col-sm-3 carddetail">
+                  <div class="top-left"><img src="assets/Img/web.png" alt="NoImage"></div>
+                  <div class="bottom-left"><span style=" color:#757575 !important;">Theme</span><br/><span>{{missionDetail.missionThemeName}}</span></div>
+                </div>
+                <div class="col-sm-3 carddetail">
+                  <div class="top-left"><img src="assets/Img/pin1.png" alt="NoImage"></div>
+                  <div class="bottom-left"><span style="color:#757575 !important;">Date</span><br/><span>From{{missionDetail.startDate | date:'dd/MM/yyyy'}}<br/>Until {{missionDetail.endDate | date:'dd/MM/yyyy'}}</span></div>
+                </div>
+                <div class="col-sm-3 carddetail">
+                  <div class="top-left"><img src="assets/Img/organization.png" alt="NoImage"></div>
+                  <div class="bottom-left"><span style=" color:#757575 !important;">Organization</span><br/><span>{{missionDetail.missionOrganisationName}}</span></div>
+                </div>
+              </div>
+              <div class="d-grid card-footer align-items-center" style="display: flex;justify-content: center;margin-left: 20%;" >
+                <button class="btn-login" type="submit" [disabled]="missionDetail.missionApplyStatus=='Applied'" (click)="OpenApplyMissionModal(missionDetail.id)"><span class="Login">
+                  {{btnText}} &nbsp;<i style="margin-top: 5px !important;" class="fa fa-arrow-right"></i></span></button>
+              </div>
+             </div>
+
+      </div>
+  </div>
+  <div class="row" style="height: 650px;margin-top: 14%;">
+    <div class="col-sm-8">
+      <div class="tab-panel p-3">
+        <tabset class="member-tabset">
+          <tab heading="Mission">
+            <p class="Introduction">Introduction</p>
+            <p class="contentDetail">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              <br/><br/>
+              Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              <br/><br/>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </p>
+            <p class="Introduction">Challenge</p>
+            <p class="contentDetail">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              <br/><br/>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </p>
+            <p class="Introduction" *ngIf="missionDoc != undefined">Documents</p>
+            <div class="documentFile row mt-4" *ngIf="missionDoc != undefined">
+              <div class="col-sm-3 document"><img src="assets/Img/pdf.png"><span><a href="{{missionDoc}}" style="color: #414141;text-decoration: none;">&nbsp;{{missionDoc}}</a></span></div>
+            </div>
+          </tab>
+          <tab heading="Organization">{{missionDetail.missionOrganisationDetail}}</tab>
+          <tab heading="Comments">
+            <textarea class="form-control" rows="4" #commentdesc placeholder="Enter Your Comments"></textarea>
+            <div class="mt-4">
+              <button class="btn-login" type="button" (click)="PostComment(commentdesc.value)"><span class="Login">Post Comment</span></button>
+            </div>
+            <div class="mt-4" style="height: 400px !important;overflow-y:auto;max-height: 400px !important;border: none;">
+                <div class="card mt-2 col-sm-11 row" style="height: 100px !important;margin-left: 10px;" *ngFor="let item of missionCommentList">
+                    <div class="col-sm-1">
+                      <img class="userimg" src="{{item.userImage}}" alt="NoImage" onerror="this.src='assets/NoUser.png'">
+                    </div>
+                    <div class="col-sm-10">
+                        <span style="font-size: 16px;"><b>{{item.userFullName}}</b></span>
+                        <p style="font-size: 14px;">{{item.commentDate }}</p>
+                        <!-- <p style="font-size: 14px;">Monday,Octomber 21,2022,3:35pm</p> -->
+                        <p class="commentdisc">{{item.commentDescription}}</p>
+                    </div>
+                </div>
+            </div>
+          </tab>
+        </tabset>
+  </div>
+    </div>
+    <div class="col-sm-4">
+      <div class="card cardInformation">
+        <div class="card-body">
+          <p class="cardBodyDetail" style="font-size: 22px !important;font-weight: 700;">Information</p>
+          <p class="underLine"></p>
+          <p class="cardBodyDetail">Skills<span style="margin-left: 5%;">{{missionDetail.missionSkillName}}</span></p>
+          <p class="underLine"></p>
+          <p class="cardBodyDetail">Day <span style="margin-left: 6%;">&nbsp;Weekend only</span></p>
+          <p class="underLine"></p>
+          <p class="cardBodyDetail"><span>Rating</span>
+            <span class="col-sm-5" style="margin-left: 5%;">
+              <span class="fa fa-star checked"></span>
+              <span class="fa fa-star checked"></span>
+              <span class="fa fa-star checked"></span>
+              <span class="fa fa-star checked"></span>
+              <span class="fa fa-star"></span>
+            </span>&nbsp;
+           (by 125 volunteers)
+          </p>
+        </div>
+      </div>
+
+      <div class="card userInformation">
+        <div class="card-body">
+          <p class="cardBodyDetail" style="font-size: 22px !important;font-weight: 700;">Recent Volunteers</p>
+          <p class="underLine"></p>
+          <div class="row">
+            <ng-container *ngIf="(recentVolunteerList) as result">
+               <div class="col-sm-4 row" style="margin-bottom: 4%;" *ngFor="let item of result">
+                   <img src="{{item.userImage}}" alt="NoImage" style=" width: 90px;height: 70px;border-radius: 50%;margin-left: 0%;">
+                   <p style="width: 120px;">{{item.userName}}</p>
+                </div>
+                <div class="col-sm-12 justify-content-center" *ngIf="result.length === 0">
+                  <p class="text-danger" style="font-size:18px;text-align: center;margin-top: 50%;"><b>No Recent Volunteers Avilable</b></p>
+              </div>
+            </ng-container>
+          </div>
+       </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container-fluid">
+  <p style="margin-top: 9%;height:1px;border: 1px solid gray;opacity: 0.1;"></p>
+  <div class="">
+      <p style="width:100%;display: flex;justify-content: center;font-size: 22px;font-weight: 400;color: #757575;margin-top: 2%;">
+        Related Mission
+      </p>
+      <div class="container-fluid" style="width: fit-content;height: 676px;">
+        <div class="row mt-5">
+          <div class="col-sm-4 row Rounded-Rectangle-2-copy">
+            <div class="card-header" style="width: 460px;height:220px;">
+                  <img src="assets/Images/1.png" alt="NoImage">
+                  <div class="bottom-leftimg"><i class="fa fa-map-marker"></i>&nbsp;Toronto</div>
+                  <div class="bottom-rightsimg"><img src="assets/Img/heart1.png" alt="NoImage"></div>
+                  <div class="bottom-rightimg"><i class="fa fa-user-plus 3-x"></i></div>
+                  <div class="centered">Environment</div>
+            </div>
+            <div class="card-body">
+                <p class="heading">Grow Trees – On the path to
+                  environment sustainability</p>
+                <p class="content"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore...</p>
+                <div class="row" style="margin: 14px;">
+                  <div class="col-sm-7 contentdetail">
+                    CSE Network
+                  </div>
+                  <div class="col-sm-5" style="display: flex;justify-content: flex-end;">
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star"></span>
+                    <span class="fa fa-star"></span>
+                  </div>
+                </div>
+                <div>
+                  <!-- <div class="missionLabel">
+                    <p>Ongoing Opportunity</p>
+                  </div> -->
+                  <div class="bordert">
+                    <div class="text-center data py-3">
+                      <p style="margin-top: -12px">Ongoing Opportunity</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="SeatDeadLine row">
+                    <div class="col-sm-12">
+                      <img src="assets/Img/Already-volunteered.png" alt="NoImage" style="margin-top: -1%;">&nbsp;
+                      <span style="font-size: 24px !important;margin-top: 2%;">250</span> <br/><span style="margin-left:34px">Already volunteered</span>
+                    </div>
+                </div>
+            </div>
+            <P style="border: 1px solid #e8e8e8;width:100%"></P>
+            <div class="d-grid card-footer"style="margin-left:32%">
+              <button class="btn-logins" type="submit"><span class="Logins">Apply &nbsp;<i style="margin-top: 5px !important;" class="fa fa-arrow-right"></i></span></button>
+            </div>
+           </div>
+          <div class="col-sm-4 row Rounded-Rectangle-2-copy">
+            <div class="card-header" style="width: 460px;height:220px;">
+                  <img src="assets/Img/animal.png" alt="NoImage">
+                  <div class="bottom-leftimg"><i class="fa fa-map-marker"></i>&nbsp;Cape Town</div>
+                  <div class="bottom-rightsimg"><img src="assets/Img/heart1.png" alt="NoImage"></div>
+                  <div class="bottom-rightimg"><i class="fa fa-user-plus 3-x"></i></div>
+                  <div class="centered">Environment</div>
+            </div>
+            <div class="card-body">
+                <p class="heading">Animal Welfare & save birds
+                  campaign
+                </p>
+                <p class="content"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore...</p>
+                <div class="row" style="margin: 14px;">
+                  <div class="col-sm-7 contentdetail">
+                    JR Foundation
+                  </div>
+                  <div class="col-sm-5" style="display: flex;justify-content: flex-end;">
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star"></span>
+                    <span class="fa fa-star"></span>
+                  </div>
+                </div>
+                <div>
+                  <!-- <div class="missionLabel">
+                    <p>Plant 10,000 Trees</p>
+                  </div> -->
+                  <div class="bordert">
+                    <div class="text-center data py-3">
+                      <p style="margin-top: -12px">Plant 10,000 Trees</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="SeatDeadLine row">
+                    <div class="col-sm-6">
+                      <img src="assets/Img/Seats-left.png" alt="NoImage" style="margin-top: -1%;">&nbsp;
+                      <span style="font-size: 24px !important;margin-top: 2%;">10</span> <br/><span style="margin-left:34px">Seat left</span>
+                    </div>
+                    <div class="col-sm-6">
+                      <img src="assets/Img/achieved.png" alt="NoImage" style="margin-top: -1%;margin-left: -8%;">&nbsp;
+                      <span style="font-size: 24px !important;">
+                        <div class="progress" style="margin-top: -10% !important;margin-bottom: -16% !important">
+                          <div class="progress-bar bg-warning" role="progressbar" style="width: 75%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
+                      </span> <br/><span style="margin-left:30px !important;">8000 achieved</span>
+                    </div>
+                </div>
+            </div>
+            <P style="border: 1px solid #e8e8e8;width:100%"></P>
+            <div class="d-grid card-footer"style="margin-left:32%">
+              <button class="btn-logins" type="submit"><span class="Logins">Apply &nbsp;<i style="margin-top: 5px !important;" class="fa fa-arrow-right"></i></span></button>
+            </div>
+           </div>
+           <div class="col-sm-4 row Rounded-Rectangle-2-copy">
+            <div class="card-header" style="width: 460px;height:220px;">
+                  <img src="assets/Img/Plantation.png" alt="NoImage">
+                  <div class="bottom-leftimg"><i class="fa fa-map-marker"></i>&nbsp;Paris</div>
+                  <div class="bottom-rightsimg"><img src="assets/Img/heart1.png" alt="NoImage"></div>
+                  <div class="bottom-rightimg"><i class="fa fa-user-plus 3-x"></i></div>
+                  <div class="centered">Environment</div>
+            </div>
+            <div class="card-body">
+                <p class="heading">Plantation and Afforestation
+                  programme
+                </p>
+                <p class="content"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore...</p>
+                <div class="row" style="margin: 14px;">
+                  <div class="col-sm-7 contentdetail">
+                    Amaze Doctors
+                  </div>
+                  <div class="col-sm-5" style="display: flex;justify-content: flex-end;">
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star"></span>
+                    <span class="fa fa-star"></span>
+                  </div>
+                </div>
+                <div>
+                  <!-- <div class="missionLabel">
+                    <p>Plant 10,000 Trees</p>
+                </div> -->
+                <div class="bordert">
+                  <div class="text-center data py-3">
+                    <p style="margin-top: -12px">Plant 10,000 Trees</p>
+                  </div>
+                </div>
+                </div>
+                <div class="SeatDeadLine row">
+                  <div class="col-sm-6">
+                    <img src="assets/Img/Seats-left.png" alt="NoImage" style="margin-top: -1%;">&nbsp;
+                    <span style="font-size: 24px !important;margin-top: 2%;">10</span> <br/><span style="margin-left:34px">Seat left</span>
+                  </div>
+                  <div class="col-sm-6">
+                    <img src="assets/Img/achieved.png" alt="NoImage" style="margin-top: -1%;margin-left: -8%;">&nbsp;
+                    <span style="font-size: 24px !important;">
+                      <div class="progress" style="margin-top: -10% !important;margin-bottom: -16% !important">
+                        <div class="progress-bar bg-warning" role="progressbar" style="width: 75%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                      </div>
+                    </span> <br/><span style="margin-left:30px !important;">8000 achieved</span>
+                  </div>
+              </div>
+            <P style="border: 1px solid #e8e8e8;width:100%"></P>
+            <div class="d-grid card-footer"style="margin-left:32%">
+              <button class="btn-logins" type="submit"><span class="Logins">Apply &nbsp;<i style="margin-top: 5px !important;" class="fa fa-arrow-right"></i></span></button>
+            </div>
+           </div>
+    </div>
+      </div>
+  </div>
+  </div>
+  <div class="mt-5">
+    <app-footer></app-footer>
+  </div>
+
+
+  <div class="modal fade" style="margin-top: 8%;" id="applyMissionModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Confirm Delete</h5>
+          <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close" (click)="CloseApplyMissionModal()">
+          </button>
+        </div>
+        <div class="modal-body">
+          <input type="hidden" value="">
+           <h4>Are you sure you want to apply this mission?</h4>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btnCancel" data-dismiss="modal" (click)="CloseApplyMissionModal()"><span class="bCancel"> Cancel</span> </button>
+          <button type="button" class="btnRemove" (click)=" ApplyMission(missionId)"><span class="bremove">Apply</span></button>
+        </div>
+      </div>
+    </div>
+  </div>

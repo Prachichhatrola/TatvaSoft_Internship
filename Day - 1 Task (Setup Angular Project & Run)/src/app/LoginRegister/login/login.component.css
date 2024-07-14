@@ -1,0 +1,51 @@
+/* General styles */
+.bg-image-container {
+  position: relative;
+}
+
+.bg-image {
+  width: 100%;
+  height: auto;
+}
+
+.carousel-caption {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  text-align: center;
+}
+
+.heading {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.content {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.login {
+  min-height: 100vh;
+}
+
+.col-form-label {
+  font-size: 1rem;
+}
+
+.form-control {
+  width: 100%;
+}
+
+.btn-login {
+  width: 100%;
+}
+
+/* Responsive styles */
+@media (max-width: 991.98px) {
+  .bg-image-container {
+    height: 400px; /* Adjust height as needed */
+  }
+}

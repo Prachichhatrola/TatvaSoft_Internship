@@ -1,0 +1,12 @@
+<div class="my-3"> 
+    <h5 [ngClass]="{'strike': !user?.active}">{{user?.firstname}}</h5>
+    <h5 [ngClass]="{'strike': !user?.active}">{{user?.lastname}}</h5>
+    <h5 [ngClass]="{'strike': !user?.active}">{{user?.phoneno}}</h5>
+    <h5 [ngClass]="{'strike': !user?.active}">{{user?.emailaddress}}</h5>
+    <p [ngClass]="{'strike': !user?.active}">{{user?.address}}</p>
+    <div class="form-group form-check">
+        <input type="checkbox" class="form-check-input" id="user{{i}}" (click)="onCheckboxClick(user)" [checked]="!user?.active">
+        <label class="form-check-label" for="user{{i}}">Done</label>
+      </div>
+    <button class="btn btn-sm btn-danger" (click)="onClick(user)">Delete</button>
+</div> 

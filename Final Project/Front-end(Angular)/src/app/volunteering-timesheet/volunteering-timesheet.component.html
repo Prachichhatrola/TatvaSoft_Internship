@@ -1,0 +1,233 @@
+<div>
+  <app-navbar></app-navbar>
+  <hr style="margin: 0rem 0 !important"/>
+</div>
+<div class="container-fluid" style="margin-top: 100px;">
+  <div class="heading">Volunteering Timesheet</div>
+  <div class="row">
+    <div class="col-sm-6">
+      <div class="card card-hours">
+            <p class="card-title">
+              Volunteering Hours
+              <span style="float: right;margin-right: 7%;">
+                <button class="btn btn-outline" (click)="OpenVolunteeringHoursModal()">
+                  <i class="fa fa-plus"></i>Add
+                </button>
+              </span>
+            </p>
+            <div class="table" style="width: 100%;">
+
+                <thead>
+                  <tr>
+                    <th style="width: 400px;">Mission</th>
+                    <th style="width: 160px;">Date</th>
+                    <th style="width: 30px;">Hours</th>
+                    <th style="width: 40px;">Minutes</th>
+                    <th style="width: 100px;text-align: right;"></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <ng-container *ngIf="(hoursList)as result">
+                    <tr *ngFor="let item of result">
+                    <td>{{item.missionName}}</td>
+                    <td>{{item.dateVolunteered | date: 'dd-MM-yyyy'}}</td>
+                    <td>{{item.hours}}</td>
+                    <td>{{item.minutes}}</td>
+                    <td style="text-align: right;">
+                      <button type="button" title="Edit hours" class="btnedit" (click)="GetVolunteeringHoursById(item.id)">
+                        <i class="fa fa-edit "></i>
+                      </button>
+                      <button type="button" title="Remove hours" class="btndelete" (click)="OpenVolunteeringDeleteModal(item.id)">
+                        <i class="fa fa-trash-o"></i>
+                      </button>
+                    </td>
+                  </tr>
+                  <tr *ngIf="result.length === 0">
+                    <td colspan="6" style="text-align:center;width:100%;font-size:20px;color: red;"><b>No Data Found </b> </td>
+                  </tr>
+                  </ng-container>
+                </tbody>
+            </div>
+      </div>
+    </div>
+    <div class="col-sm-6">
+      <div class="card card-goals">
+        <p class="card-title">Volunteering Goals
+          <span style="float: right;margin-right: 7%;">
+            <button class="btn btn-outline" (click)="OpenVolunteeringGoalsModal()">
+              <i class="fa fa-plus"></i>Add
+            </button>
+          </span>
+        </p>
+        <div class="table" style="width: 100%;">
+          <thead>
+            <tr>
+              <th style="width: 550px;">Mission</th>
+              <th style="width: 183px;">Date</th>
+              <th style="width: 120px;">Action</th>
+              <th style="width: 150px;text-align: right;"></th>
+            </tr>
+          </thead>
+          <tbody>
+            <ng-container *ngIf="(goalsList)as result">
+              <tr *ngFor="let item of result" style="margin-bottom: 3px;">
+              <td>{{item.missionName}}</td>
+              <td>{{item.date | date : 'dd-MM-yyyy'}}</td>
+              <td>{{item.action}}</td>
+              <td style="text-align: right;">
+                <button type="button" class="btnedit" title="Edit goals" (click)="GetVolunteeringGoalsById(item.id)">
+                  <i class="fa fa-edit "></i>
+                </button>
+                <button type="button" class="btndelete" title="Remove goals" (click)="OpenVolunteeringDeleteModal(item.id)">
+                  <i class="fa fa-trash-o"></i>
+                </button>
+              </td>
+            </tr>
+            <tr *ngIf="result.length === 0">
+              <td colspan="6" style="text-align:center;width:100%;font-size:20px;color: red;"><b>No Data Found </b> </td>
+            </tr>
+            </ng-container>
+          </tbody>
+      </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="modal fade" style="margin-top: 5%;" id="volunteeringHoursModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-xl" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Please input given below Volunteering Hours</h5>
+        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close" (click)="CloseVolunteeringHoursModal()">
+        </button>
+      </div>
+      <div class="modal-body">
+        <form [formGroup]="volunteeringHoursForm">
+          <div>
+            <input type="hidden" formControlName="id">
+          <div class="form-group">
+            <label class="col-form-label">Mission</label>
+            <select  class="form-select"  formControlName="missionId" [class.error]="volunteeringHoursForm.controls['missionId'].dirty && volunteeringHoursForm.hasError('required','missionId')">
+              <option *ngFor="let item of missionList" [value]="item.value">{{item.text}}</option>
+            </select>
+            <span class="text-danger" *ngIf="volunteeringHoursForm.controls['missionId'].dirty && volunteeringHoursForm.hasError('required','missionId')">
+              Mission is required
+            </span>
+          </div>
+          <div class="form-group mt-3">
+            <label class="col-form-label">Date</label>
+            <input type="date" class="form-control" placeholder="Select Date" formControlName="dateVolunteered" [class.error]="volunteeringHoursForm.controls['dateVolunteered'].dirty && volunteeringHoursForm.hasError('required','dateVolunteered')">
+            <span class="text-danger" *ngIf="volunteeringHoursForm.controls['dateVolunteered'].dirty && volunteeringHoursForm.hasError('required','dateVolunteered')">
+              Date is required
+            </span>
+          </div>
+          <div class="row mt-3">
+            <div class="form-group col-sm-6">
+              <label class="col-form-label">Hours</label>
+              <input type="text" formControlName="hours" class="form-control" placeholder="Enter Spent Hours" [class.error]="volunteeringHoursForm.controls['hours'].dirty && volunteeringHoursForm.hasError('required','hours')" >
+              <div class="text-danger" *ngIf="volunteeringHoursForm.controls['hours'].dirty && volunteeringHoursForm.hasError('required','hours')">
+                Hours is required
+              </div>
+            </div>
+            <div class="form-group col-sm-6">
+              <label class="col-form-label">Minutes</label>
+              <input type="text" class="form-control" placeholder="Enter Spent Minutes" formControlName="minutes" [class.error]="volunteeringHoursForm.controls['minutes'].dirty && volunteeringHoursForm.hasError('required','minutes')">
+              <span class="text-danger" *ngIf="volunteeringHoursForm.controls['minutes'].dirty && volunteeringHoursForm.hasError('required','minutes')">
+                Minutes is required
+              </span>
+          </div>
+          </div>
+          <div class="form-group mt-3">
+            <label class="col-form-label">Message</label>
+            <textarea class="form-control" rows="4" placeholder="Enter your message" formControlName="message" [class.error]="volunteeringHoursForm.controls['message'].dirty && volunteeringHoursForm.hasError('required','message')"></textarea>
+            <span class="text-danger" *ngIf="volunteeringHoursForm.controls['message'].dirty && volunteeringHoursForm.hasError('required','message')">
+              Message is required
+            </span>
+          </div>
+          </div>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btnCancel" data-dismiss="modal" (click)="CloseVolunteeringHoursModal()"><span class="Cancel"> Cancel</span> </button>
+        <button type="button" class="btnSubmit" (click)="OnVolunteringHoursSubmit()"><span class="SubmitData">Submit</span></button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" style="margin-top: 5%;" id="volunteeringGoalsModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-xl" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Please input given below Volunteering Goal</h5>
+        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close" (click)="CloseVolunteeringGoalsModal()">
+        </button>
+      </div>
+      <div class="modal-body">
+        <form [formGroup]="volunteeringGoalsForm">
+        <div class="row">
+          <input type="hidden" formControlName="id">
+          <div class="form-group">
+            <label class="col-form-label">Mission</label>
+            <select class="form-select" formControlName="missionId" [class.error]="volunteeringGoalsForm.controls['missionId'].dirty && volunteeringGoalsForm.hasError('required','missionId')">
+              <option *ngFor="let item of missionList" [value]="item.value">{{item.text}}</option>
+            </select>
+            <span class="text-danger" *ngIf="volunteeringGoalsForm.controls['missionId'].dirty && volunteeringGoalsForm.hasError('required','missionId')">
+              Mission is required
+            </span>
+          </div>
+          <div class="form-group mt-3">
+            <label class="col-form-label">Actions</label>
+            <select class="form-select" formControlName="action" [class.error]="volunteeringGoalsForm.controls['action'].dirty && volunteeringGoalsForm.hasError('required','action')">
+              <option value="1">Yes</option>
+              <option value="0">No</option>
+            </select>
+            <span class="text-danger" *ngIf="volunteeringGoalsForm.controls['action'].dirty && volunteeringGoalsForm.hasError('required','action')">
+              Action is required
+            </span>
+          </div>
+          <div class="form-group mt-3">
+            <label class="col-form-label">Date</label>
+            <input type="date" class="form-control" placeholder="Select Date" formControlName="date" [class.error]="volunteeringGoalsForm.controls['date'].dirty && volunteeringGoalsForm.hasError('required','date')">
+            <span class="text-danger" *ngIf="volunteeringGoalsForm.controls['date'].dirty && volunteeringGoalsForm.hasError('required','date')">
+              Date is required
+            </span>
+          </div>
+          <div class="form-group mt-3">
+            <label class="col-form-label">Message</label>
+            <textarea class="form-control" rows="4" placeholder="Enter your message" formControlName="message" [class.error]="volunteeringGoalsForm.controls['message'].dirty && volunteeringGoalsForm.hasError('required','message')"></textarea>
+            <span class="text-danger" *ngIf="volunteeringGoalsForm.controls['message'].dirty && volunteeringGoalsForm.hasError('required','message')">
+              Message is required
+            </span>
+          </div>
+        </div>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btnCancel" data-dismiss="modal" (click)="CloseVolunteeringGoalsModal()"><span class="Cancel"> Cancel</span> </button>
+        <button type="button" class="btnSubmit" (click)="OnVolunteringGoalsSubmit()"><span class="SubmitData">Submit</span></button>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" style="margin-top: 8%;" id="removeVolunteeringModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Confirm Delete</h5>
+        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close" (click)="CloseVolunteeringDeleteModal()">
+        </button>
+      </div>
+      <div class="modal-body">
+        <input type="hidden" value="">
+         <h4>Are you sure you want to delete this item?</h4>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btnCancel" data-dismiss="modal" (click)="CloseVolunteeringDeleteModal()"><span class="Cancel"> Cancel</span> </button>
+        <button type="button" class="btnRemove" (click)=" DeleteVolunteeringHours()"><span class="remove">Delete</span></button>
+      </div>
+    </div>
+  </div>
+</div>

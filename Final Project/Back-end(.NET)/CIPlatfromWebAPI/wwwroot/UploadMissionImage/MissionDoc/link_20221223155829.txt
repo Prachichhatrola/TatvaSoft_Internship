@@ -1,0 +1,7 @@
+https://web2.anasource.com/workspace/Account/Login?ReturnUrl=%2fworkspace%2fConfiguration%2fUser%2fPersonalDetails%3fmy%3d1&my=1
+http://202.131.123.12:9090/ems/
+https://docs.google.com/spreadsheets/d/1BdxmOeeXZLqt5ScfZljolYZZTgtutCos2rUKy13wWB0/edit#gid=2070344919
+https://www.youtube.com/watch?v=uWhbcR06VcA&list=PLfyWdpsiUiPC4rWHf7isSZZUAmwIkE1ra&index=7
+https://www.youtube.com/watch?v=tKatw9ZMPCU
+https://app.zeplin.io/login?redirect=%2Fproject%2F63105fad158e4615281628a8%2Fdashboard
+https://drive.google.com/drive/folders/1P4-d3VI3NiW-vrei8Od7HLHQUpybFteA

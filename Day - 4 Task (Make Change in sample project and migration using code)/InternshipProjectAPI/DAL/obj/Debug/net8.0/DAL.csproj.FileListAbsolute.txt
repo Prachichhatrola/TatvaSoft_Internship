@@ -1,0 +1,43 @@
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\DAL\bin\Debug\net8.0\DAL.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\DAL\bin\Debug\net8.0\DAL.pdb
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\DAL\obj\Debug\net8.0\DAL.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\DAL\obj\Debug\net8.0\DAL.pdb
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\DAL\obj\Debug\net8.0\ref\DAL.dll

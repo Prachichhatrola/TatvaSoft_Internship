@@ -1,0 +1,13 @@
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProjectAPI.ServiceDefaults\bin\Debug\net8.0\InternshipProjectAPI.ServiceDefaults.deps.json
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProjectAPI.ServiceDefaults\bin\Debug\net8.0\InternshipProjectAPI.ServiceDefaults.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProjectAPI.ServiceDefaults\bin\Debug\net8.0\InternshipProjectAPI.ServiceDefaults.pdb
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProjectAPI.ServiceDefaults\obj\Debug\net8.0\InternshipProjectAPI.ServiceDefaults.csproj.AssemblyReference.cache
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProjectAPI.ServiceDefaults\obj\Debug\net8.0\InternshipProjectAPI.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProjectAPI.ServiceDefaults\obj\Debug\net8.0\InternshipProjectAPI.ServiceDefaults.AssemblyInfoInputs.cache
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProjectAPI.ServiceDefaults\obj\Debug\net8.0\InternshipProjectAPI.ServiceDefaults.AssemblyInfo.cs
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProjectAPI.ServiceDefaults\obj\Debug\net8.0\InternshipProjectAPI.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProjectAPI.ServiceDefaults\obj\Debug\net8.0\InternshipProjectAPI.ServiceDefaults.sourcelink.json
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProjectAPI.ServiceDefaults\obj\Debug\net8.0\InternshipProjectAPI.ServiceDefaults.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProjectAPI.ServiceDefaults\obj\Debug\net8.0\refint\InternshipProjectAPI.ServiceDefaults.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProjectAPI.ServiceDefaults\obj\Debug\net8.0\InternshipProjectAPI.ServiceDefaults.pdb
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProjectAPI.ServiceDefaults\obj\Debug\net8.0\ref\InternshipProjectAPI.ServiceDefaults.dll

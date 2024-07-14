@@ -1,0 +1,105 @@
+<div class="container-fluid ps-md-0">
+  <div class="row g-0">
+    <div class="d-flex col-md-6 col-lg-9 bg-image">
+      <img src="assets/Images/image.png" alt="No Image">
+      <div class="carousel-caption ">
+        <p class="heading">Sed ut perspiciatis unde omnis
+          iste natus voluptatem.</p>
+        <p class="content"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+            aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+            occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </div>
+    </div>
+    <div class="col-md-6 col-lg-3">
+      <div class="login  d-flex">
+        <div class="container">
+          <div class="row mt-4">
+            <div class="col-md-9 col-lg-9" style="margin-left: 7%;">
+              <form [formGroup]="registerForm" (ngSubmit)="OnSubmit()">
+                <div class="form-group">
+                  <label class="col-form-label">First Name</label>
+                  <input type="text" class="form-control" formControlName="firstName" placeholder="evan" autofocus>
+                  <span class="text-danger mb-0" *ngIf="firstName.invalid &&  (firstName.touched || formValid)">
+                    Please Enter FirstName
+                  </span>
+                </div>
+                <div class="form-group">
+                  <label class="col-form-label">Last Name (Surname)</label>
+                  <input type="text" class="form-control" formControlName="lastName" placeholder="donohue">
+                  <span class="text-danger" *ngIf="lastName.invalid &&  (lastName.touched || formValid)">
+                    Please Enter LastName
+                  </span>
+                </div>
+                <div class="form-group">
+                  <label class="col-form-label">Phone Number</label>
+                  <input type="text" class="form-control" formControlName="phoneNumber" placeholder="8923454615">
+                  <span class="text-danger" *ngIf="phoneNumber.invalid &&  (phoneNumber.touched || formValid)">
+                    <span *ngIf="phoneNumber.errors?.['required']">
+                      Please Enter PhoneNumber
+                    </span>
+                    <span *ngIf="phoneNumber.errors?.['minLength']">
+                      Please Enter Valid PhoneNumber
+                    </span>
+                    <span *ngIf="phoneNumber.errors?.['maxLength']">
+                      Please Enter Valid PhoneNumber
+                    </span>
+                  </span>
+                </div>
+                <div class="form-group">
+                  <label class="col-form-label">Email Address</label>
+                  <input type="text" class="form-control" formControlName="emailAddress" placeholder="evan.donohue@gmail.com">
+                  <span class="text-danger" *ngIf="emailAddress.invalid &&  (emailAddress.touched || formValid)">
+                    <span *ngIf="emailAddress.hasError('required')">
+                      Please Enter EmailAddress
+                    </span>
+                    <span *ngIf="emailAddress.hasError('email')">
+                      Please Enter Valid EmailAddress
+                    </span>
+                  </span>
+                </div>
+                <div class="form-group">
+                  <label class="col-form-label">Password</label>
+                  <input type="password" class="form-control" formControlName="password" placeholder="**********">
+                  <span class="text-danger" *ngIf="password.invalid && (password.touched || formValid)">
+                        <span *ngIf="password.errors?.['required']">
+                          Please Enter Password
+                        </span>
+                        <span *ngIf="password.errors?.['minLength']">
+                          Password should not be less than 5 character
+                        </span>
+                        <span *ngIf="password.errors?.['maxLength']">
+                          Password should not be greater than 10 character
+                        </span>
+                  </span>
+                </div>
+                <div class="form-group">
+                  <label class="col-form-label">Confirm Password</label>
+                  <input type="password" class="form-control" formControlName="confirmPassword" placeholder="**********">
+                  <span class="text-danger" *ngIf="confirmPassword.invalid && (confirmPassword.touched || formValid)">
+                      <span *ngIf="confirmPassword.hasError('required')">
+                        Please Enter Confirm Password
+                      </span>
+                  </span>
+                  <span class="text-danger" *ngIf="registerForm.hasError('notmatched') && confirmPassword.valid">
+                      Password and Confirm Password not matched
+                  </span>
+                </div>
+                <div class="d-grid mt-5">
+                  <button class="btn-login" type="submit"><span class="Login">Register</span></button>
+                  <div class="text-center">
+                    <p class="Lost">Already registered? <span><a routerLink="../">Login Now</a></span></p>
+                  </div>
+                </div>
+
+              </form>
+            </div>
+          </div>
+          <div style="text-align: center;">
+            <p>Privacy Policy</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

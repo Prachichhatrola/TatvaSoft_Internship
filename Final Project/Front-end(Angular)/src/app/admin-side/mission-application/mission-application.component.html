@@ -1,0 +1,58 @@
+<div class="container-fluid">
+  <app-sidebar></app-sidebar>
+   <div class="content">
+    <app-header></app-header>
+      <div class="info">
+       <div>
+           <p class="userLabel">Mission Application</p>
+       </div>
+       <div class="row">
+           <div class="col-sm-4">
+             <input type="text" [(ngModel)]="searchText" class="searchBox icon" placeholder="Search"/>
+           </div>
+
+       </div>
+       <div class="row">
+         <div class="col-sm-12">
+           <div class="tableData">
+             <table style="width: 100%;">
+             <thead>
+               <tr>
+                 <th scope="col" class="col-5">Mission Title</th>
+                 <th scope="col" class="col-1">Mission Id</th>
+                 <th scope="col" class="col-1">User Id</th>
+                 <th scope="col" class="col-2">User Name</th>
+                 <th scope="col" class="col-2">Application Date</th>
+                 <th scope="col" class="col-2">Status</th>
+                 <th scope="col" class="col-1">Action</th>
+               </tr>
+             </thead>
+             <tbody>
+              <ng-container *ngIf="(applicationList | filter:searchText | paginate :{ itemsPerPage: itemsPerPages, currentPage: page })as result">
+                <tr *ngFor="let item of result">
+                 <td>{{item.missionTitle}}</td>
+                 <td>{{item.missionId}}</td>
+                 <td>{{item.userId}}</td>
+                 <td>{{item.userName}}</td>
+                 <td>{{item.appliedDate | date:'dd/MM/yyyy'}}</td>
+                 <td>{{getStatus(item.status)}}</td>
+                 <td>
+                   <button class="btnedit btn btn-success" (click)="ApproveMissionApplication(item)"><i class="fa fa-check-circle-o"></i> </button>
+                   <button  class="btndelete btn btn-success" (click)="DeleteMissionApplication(item)"><i class="fa fa-times-circle-o"></i> </button>
+                 </td>
+               </tr>
+               <tr *ngIf="result.length === 0">
+                <td colspan="6" style="text-align:center;width:100%;font-size:20px;color: red;"><b>No Data Found </b> </td>
+              </tr>
+              </ng-container>
+             </tbody>
+           </table>
+           </div>
+           <div class="mt-8 py-5" *ngIf="applicationList.length != 0" style="display:flex;justify-content: end;">
+            <pagination-controls previousLabel="" nextLabel="" (pageChange)="page = $event"></pagination-controls>
+          </div>
+         </div>
+       </div>
+     </div>
+   </div>
+ </div>

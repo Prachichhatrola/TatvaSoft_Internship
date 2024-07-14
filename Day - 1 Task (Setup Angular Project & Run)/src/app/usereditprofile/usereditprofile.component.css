@@ -1,0 +1,210 @@
+.detail {
+  width: 330px;
+  height: 315px;
+  margin: 50px auto; /* Center the element horizontally and provide top margin */
+  padding: 31px 75px 30px 74px;
+  border: solid 1px #e8e8e8;
+  background-color: #fff;
+}
+
+.basicInfo {
+  width: 80%; /* Adjust the width as needed */
+  margin: 50px auto; /* Center the element horizontally and provide top margin */
+  font-size: 28px;
+  text-align: left;
+  color: #414141;
+}
+
+.container-fluid {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%; /* Adjust the width as needed */
+}
+
+.userImage{
+  width: 181px;
+  height: 181px;
+  margin: 0 0 19px;
+  padding: 0.7px 0.5px 0.3px 0.5px;
+  background-color: #f6f6f6;
+  border-radius: 50%;
+}
+
+.userName{
+  width: 148px;
+  height: 17px;
+  margin: 0px 16px 18px 17px;
+  font-family: NotoSans;
+  font-size: 22px;
+  text-align: center;
+  color: #333;
+}
+.changepassword{
+  width: 168px;
+  height: 17px;
+  margin: 0px 16px 22px 0px;
+  font-size: 15px;
+  text-align: center;
+  color: #333;
+  cursor: pointer;
+}
+.col-form-label{
+  font-size: 16px !important;
+}
+.btn-skill {
+  width: 150px;
+  height: 45px;
+  margin-left: 1%;
+  border-radius: 24px;
+  border: solid 1px #757575;
+  background-color: #fff;
+}
+
+.Skill{
+  width: 43px;
+  height: 22px;
+  font-size: 22px;
+  color: #757575;
+}
+
+.btn-save {
+  width: 140px;
+  height: 48px;
+  margin-right: 4%;
+  border-radius: 24px;
+  border: solid 2px #f88634;
+  background-color: white;
+}
+
+.Save{
+  width: 43px;
+  height: 22px;
+  font-size: 22px;
+  color: #f88634;
+}
+
+
+.btnChangePassword {
+  width: 220px;
+  height: 40px;
+  border-radius: 24px;
+  border: solid 2px #f88634;
+  background-color: white;
+}
+
+.Change{
+  width: 43px;
+  height: 18px;
+  font-size: 22px;
+  text-align: left;
+  color: #f88634;
+}
+
+.btnCancel {
+  width: 100px;
+  height: 40px;
+  border-radius: 24px;
+  border: solid 2px #757575;
+  background-color: white;
+}
+
+.Cancel{
+  width: 43px;
+  height: 18px;
+  font-size: 22px;
+  text-align: left;
+  color: #757575;
+}
+
+.btnSkillSave {
+  width: 120px;
+  height: 40px;
+  border-radius: 24px;
+  border: solid 2px #f88634;
+  background-color: white;
+}
+
+.SkillSave{
+  width: 43px;
+  height: 18px;
+  font-size: 22px;
+  text-align: left;
+  color: #f88634;
+}
+.btn-Close {
+  width: 140px;
+  height: 48px;
+  margin-right: 1%;
+  border-radius: 24px;
+  border: solid 2px #757575;
+  background-color: white;
+}
+
+.Close{
+  width: 43px;
+  height: 22px;
+  font-size: 22px;
+  color: #757575;
+}
+
+.modal-header {
+  border: none;
+}
+.modal-footer {
+  border: none;
+}
+.modal-title{
+  font-size: 21px;
+}
+.modal-content{
+  border:1px solid #d9d9d9 !important;
+}
+.modal-header .close {
+  padding: 10px 15px;
+}
+.modal-header ul {
+  border: none;
+}
+.modal-header ul li {
+  margin: 0;
+}
+.modal-header ul li a {
+  border: none;
+  border-radius: 0;
+}
+.modal-header ul li.active a {
+  color: #e12f27;
+}
+.modal-header ul li a:hover {
+  border: none;
+}
+.modal-header ul li a span {
+  margin-left: 10px;
+}
+
+
+kendo-listbox:nth-of-type(1) {
+  margin-right: 10px;
+}
+.kendolistdata1{
+  height: 600px;
+  width: 300px;
+}
+.kendolistdata2{
+  height: 600px;
+  width: 300px;
+}
+
+
+.text-danger{
+  font-size: 16px;
+}
+.footer{
+  bottom: 0;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  left: 0;
+  text-align: center;
+}
+
+

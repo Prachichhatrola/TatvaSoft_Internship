@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GTU Summer Internship\\Day - 5 Task (Authorization and validation on sample project)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\gtu summer internship\\day - 5 task (authorization and validation on sample project)\\data_logic_layer\\dallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\dallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\gtu summer internship\\day - 5 task (authorization and validation on sample project)\\data_logic_layer\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\gtu summer internship\\day - 5 task (authorization and validation on sample project)\\data_logic_layer\\entity\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\entity\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\gtu summer internship\\day - 5 task (authorization and validation on sample project)\\data_logic_layer\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\gtu summer internship\\day - 5 task (authorization and validation on sample project)\\data_logic_layer\\entity\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\entity\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\gtu summer internship\\day - 5 task (authorization and validation on sample project)\\ciplatformwebapi_v1\\ciplatformwebapi_v1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\ciplatformwebapi_v1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DALLogin.cs",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Day - 5 Task (Authorization and validation on sample project)\\Data_Logic_Layer\\DALLogin.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\DALLogin.cs",
+              "ToolTip": "C:\\GTU Summer Internship\\Day - 5 Task (Authorization and validation on sample project)\\Data_Logic_Layer\\DALLogin.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\DALLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:53:36.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Day - 5 Task (Authorization and validation on sample project)\\Data_Logic_Layer\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Entity\\User.cs",
+              "ToolTip": "C:\\GTU Summer Internship\\Day - 5 Task (Authorization and validation on sample project)\\Data_Logic_Layer\\Entity\\User.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Entity\\User.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:53:04.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResponseResult.cs",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Day - 5 Task (Authorization and validation on sample project)\\Data_Logic_Layer\\Entity\\ResponseResult.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Entity\\ResponseResult.cs",
+              "ToolTip": "C:\\GTU Summer Internship\\Day - 5 Task (Authorization and validation on sample project)\\Data_Logic_Layer\\Entity\\ResponseResult.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Entity\\ResponseResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:53:00.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Day - 5 Task (Authorization and validation on sample project)\\Data_Logic_Layer\\Entity\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Entity\\BaseEntity.cs",
+              "ToolTip": "C:\\GTU Summer Internship\\Day - 5 Task (Authorization and validation on sample project)\\Data_Logic_Layer\\Entity\\BaseEntity.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Entity\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:52:58.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Day - 5 Task (Authorization and validation on sample project)\\Data_Logic_Layer\\Entity\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Entity\\AppDbContext.cs",
+              "ToolTip": "C:\\GTU Summer Internship\\Day - 5 Task (Authorization and validation on sample project)\\Data_Logic_Layer\\Entity\\AppDbContext.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Entity\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T04:52:55.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CIPlatFormWebApi_V1.http",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Day - 5 Task (Authorization and validation on sample project)\\CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.http",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.http",
+              "ToolTip": "C:\\GTU Summer Internship\\Day - 5 Task (Authorization and validation on sample project)\\CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.http",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-05T08:36:54.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

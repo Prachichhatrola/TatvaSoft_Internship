@@ -1,0 +1,359 @@
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\appsettings.json
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\InternshipProject.exe
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\InternshipProject.deps.json
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\InternshipProject.runtimeconfig.json
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\InternshipProject.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\InternshipProject.pdb
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Npgsql.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\BAL.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\DAL.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\BAL.pdb
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\DAL.pdb
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.csproj.AssemblyReference.cache
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.AssemblyInfoInputs.cache
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.AssemblyInfo.cs
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.csproj.CoreCompileInputs.cache
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\staticwebassets\msbuild.InternshipProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\staticwebassets\msbuild.build.InternshipProject.props
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InternshipProject.props
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InternshipProject.props
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\scopedcss\bundle\InternshipProject.styles.css
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\Internsh.0D1DF557.Up2Date
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\refint\InternshipProject.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.pdb
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.genruntimeconfig.cache
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\ref\InternshipProject.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\appsettings.json
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\InternshipProject.exe
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\InternshipProject.deps.json
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\InternshipProject.runtimeconfig.json
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\InternshipProject.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\InternshipProject.pdb
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Npgsql.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\BAL.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\DAL.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\BAL.pdb
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\DAL.pdb
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.csproj.AssemblyReference.cache
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.AssemblyInfoInputs.cache
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.AssemblyInfo.cs
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.csproj.CoreCompileInputs.cache
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\staticwebassets\msbuild.InternshipProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\staticwebassets\msbuild.build.InternshipProject.props
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InternshipProject.props
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InternshipProject.props
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\scopedcss\bundle\InternshipProject.styles.css
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\Internsh.0D1DF557.Up2Date
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\refint\InternshipProject.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.pdb
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.genruntimeconfig.cache
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\ref\InternshipProject.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\appsettings.Development.json
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\appsettings.json
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\InternshipProject.exe
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\InternshipProject.deps.json
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\InternshipProject.runtimeconfig.json
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\InternshipProject.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\InternshipProject.pdb
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Azure.Core.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Azure.Identity.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Humanizer.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Npgsql.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\System.CodeDom.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\System.Memory.Data.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\BAL.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\DAL.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\BAL.pdb
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\bin\Debug\net8.0\DAL.pdb
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.csproj.AssemblyReference.cache
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.AssemblyInfoInputs.cache
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.AssemblyInfo.cs
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.csproj.CoreCompileInputs.cache
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.MvcApplicationPartsAssemblyInfo.cs
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.MvcApplicationPartsAssemblyInfo.cache
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.sourcelink.json
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\staticwebassets\msbuild.InternshipProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\staticwebassets\msbuild.build.InternshipProject.props
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InternshipProject.props
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InternshipProject.props
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\scopedcss\bundle\InternshipProject.styles.css
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\Internsh.0D1DF557.Up2Date
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\refint\InternshipProject.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.pdb
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\InternshipProject.genruntimeconfig.cache
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\InternshipProject\obj\Debug\net8.0\ref\InternshipProject.dll

@@ -1,0 +1,54 @@
+/* You can add global styles to this file, and also import other style files */
+@import 'assets/tabs.css';
+.ngx-pagination .current{
+  background-color: #f88634 !important;
+}
+
+.ngx-pagination{
+  margin-bottom:0 !important;
+}
+.ngx-pagination li{
+  margin-right: 6px !important;
+}
+.ngx-pagination li.current{
+  background-color: #f88634 !important;
+  border: 1px solid #f88634 !important;
+  padding: 4px 8px !important;
+  z-index: 999999 !important;
+  position: relative;
+}
+.ngx-pagination li a:focus{
+  outline:none;
+}
+
+.ngx-pagination a, .ngx-pagination button{
+
+  background-color: #fff !important;
+  border: 1px solid #dee2e6 !important;
+  padding: 4px 8px !important;
+  text-decoration: none;
+
+}
+.ngx-pagination .disabled{
+  color: #6c757d !important;
+  pointer-events: none  !important;
+  cursor: auto  !important;
+  background-color: #fff  !important;
+  border: 1px solid #dee2e6  !important;
+  padding: 4px 8px !important;
+}
+.k-list-item.k-selected, .k-selected.k-list-optionlabel {
+  color: #414141 !important;
+  background-color: #d9d9d9 !important;
+}
+.k-reset{
+  margin-top: 28ch;
+}
+.k-button .k-icon-button{
+  border: none;
+}
+.toast-right-top.error{
+  border-left: 8px solid #ff355b;
+  background-color: #ffe7e6;
+  height: fit-content !important;
+}

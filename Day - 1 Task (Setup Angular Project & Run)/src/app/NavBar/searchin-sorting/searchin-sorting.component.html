@@ -1,0 +1,33 @@
+<div class="Layer-63-copy row">
+
+  <div class="col-sm-4 pipeborder">
+    <div class="input-field">
+      <span class="fa fa-search p-2"></span>
+      <input type="text" class="form-control" #txtSearch (keyup)="OnTextChange(txtSearch.value)" placeholder="Search Mission..." />
+    </div>
+  </div>
+  <div class="col-sm-1 pipeborder">
+    <select class="form-select border-0" (change)="Onchange($event)">
+      <option value="">Country</option>
+      <option *ngFor="let item of missionCountryList" value="{{item.text}}">{{item.text}}</option>
+    </select>
+  </div>
+  <div class="col-sm-1 pipeborder">
+    <select class="form-select border-0" (change)="Onchange($event)">
+      <option value="">City</option>
+      <option *ngFor="let item of missionCityList" value="{{item.text}}">{{item.text}}</option>
+    </select>
+  </div>
+  <div class="col-sm-1 pipeborder">
+    <select class="form-select border-0" (change)="Onchange($event)">
+      <option value="">Theme</option>
+      <option *ngFor="let item of missionThemeList" value="{{item.text}}">{{item.text}}</option>
+    </select>
+  </div>
+  <div class="col-sm-1 pipeborder">
+    <select class="form-select border-0" (change)="Onchange($event)">
+      <option value="">Skills</option>
+      <option *ngFor="let item of missionSkillList" value="{{item.text}}">{{item.text}}</option>
+    </select>
+  </div>
+</div>

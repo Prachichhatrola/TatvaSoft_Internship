@@ -1,0 +1,38 @@
+<div class="container-fluid">
+  <app-sidebar></app-sidebar>
+   <div class="content">
+    <app-header></app-header>
+      <div class="info">
+        <div class="card">
+            <div class="card-header">
+              Add
+            </div>
+            <div class="card-body">
+              <form [formGroup]="addMissionSkillForm">
+                <div class="row" style="padding: 3px 10px 3px 10px;">
+                  <input type="hidden" formControlName="id">
+                  
+                  <div class="form-group">
+                    <label class="col-form-label">Status</label>
+                    <select class="form-select"formControlName="status" [class.error]="addMissionSkillForm.controls['status'].dirty && addMissionSkillForm.hasError('required','status')">
+                      <option value="active">Active</option>
+                      <option value="inactive">InActive</option>
+                    </select>
+                    <span class="text-danger" *ngIf="addMissionSkillForm.controls['status'].dirty && addMissionSkillForm.hasError('required','status')">
+                      Status is required
+                    </span>
+                  </div>
+                </div>
+              </form>
+            </div>
+        </div>
+        <div class="row justify-content-end">
+          <button class="btnCancel" (click)="OnCancel()"><span class="cancel">Cancel</span></button>
+          <button class="btnSave" (click)="OnSubmit()"><span class="save">Save</span></button>
+        </div>
+       <div>
+       </div>
+     </div>
+   </div>
+ </div>
+

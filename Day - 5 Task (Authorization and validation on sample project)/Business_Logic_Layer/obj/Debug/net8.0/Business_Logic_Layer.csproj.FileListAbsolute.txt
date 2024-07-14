@@ -1,0 +1,31 @@
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.deps.json
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.pdb
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.AssemblyInfo.cs
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\obj\Debug\net8.0\refint\Business_Logic_Layer.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.pdb
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\obj\Debug\net8.0\ref\Business_Logic_Layer.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.pdb
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\Business_Logic_Layer\obj\Debug\net8.0\Business.2FEBA881.Up2Date
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.deps.json
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.pdb
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\Business_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\Business_Logic_Layer\bin\Debug\net8.0\Data_Logic_Layer.pdb
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.csproj.AssemblyReference.cache
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.AssemblyInfoInputs.cache
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.AssemblyInfo.cs
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.csproj.CoreCompileInputs.cache
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.sourcelink.json
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\Business_Logic_Layer\obj\Debug\net8.0\Business.2FEBA881.Up2Date
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\Business_Logic_Layer\obj\Debug\net8.0\refint\Business_Logic_Layer.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.pdb
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\Business_Logic_Layer\obj\Debug\net8.0\ref\Business_Logic_Layer.dll

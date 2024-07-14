@@ -1,0 +1,51 @@
+totalPrice:number=0;
+  addProductToCart(data:any) {
+    debugger;
+      if(data)
+      {
+
+        let item: CartItem = {
+
+          product:  data,
+          quantity: 1,
+          totalPrice: data.price
+        };
+        let cart: any[] = [];
+        if (localStorage.getItem("cartItem") == null) {
+          //const cart: any[] = [];
+          cart.push(JSON.stringify(item));
+          localStorage.setItem('cartItem', JSON.stringify(cart));
+        }
+        else {
+          let cart = JSON.parse(localStorage.getItem('cartItem') as any);
+          let index = -1;
+          for (let i = 0; i < cart.length; i++)
+          {
+            let item: CartItem = JSON.parse(cart[i]);
+            if (item.product.itemId === data.itemId)
+            {
+              index = i;
+              // let item: CartItem = JSON.parse(cart[index]);
+              // item.quantity++;
+              // item.totalPrice = item.quantity * item.product.price;
+              // cart[index] = JSON.stringify(item);
+              // localStorage.setItem('cartItem', JSON.stringify(cart));
+              // break;
+            }
+            if (index === -1)
+            {
+              cart.push(JSON.stringify(item));
+              localStorage.setItem('cartItem', JSON.stringify(cart));
+            }
+            else
+            {
+              let item: CartItem = JSON.parse(cart[index]);
+              item.quantity++;
+              item.totalPrice = item.quantity * item.product.price;
+              cart[index] = JSON.stringify(item);
+              localStorage.setItem('cartItem', JSON.stringify(cart));
+            }
+          }
+       }
+      }
+  }

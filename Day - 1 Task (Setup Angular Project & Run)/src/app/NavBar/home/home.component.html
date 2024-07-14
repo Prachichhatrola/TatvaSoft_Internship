@@ -1,0 +1,205 @@
+
+<div>
+<app-navbar></app-navbar>
+</div>
+<div class="container" style="width:100%">
+  <div class="sortingdata mt-5">
+
+  </div>
+  <div class="row">
+    <div class="col-sm-6">
+        <p style="font-size: 20px;margin-left: 20px;">Explore <span><b>{{totalMission}} missions</b></span></p>
+    </div>
+    <div class="col-sm-6 row" style="display: flex;justify-content: flex-end;">
+      <div class="col-sm-3" style="margin-left:20%">
+        <!-- <select class="form-select" (change)="SortingData($event)"> -->
+          <select class="form-select" (change)="SortingList($event)">
+          <option value="">Sort by</option>
+          <option value="Newest">Newest</option>
+          <option value="Oldest">Oldest</option>
+          <option value="Lowest available seats">Lowest available seats</option>
+          <option value="Highest available seats">Highest available seats</option>
+          <option value="My favourites">My favourites</option>
+          <option value="Registration deadline">Registration deadline</option>
+        </select>
+      </div>
+      <div class="col-sm-1" style="color:#e8e8e8;margin-right:-2%;">
+        <div class="Ellipse-574">
+          <div class="btn btn-icon btn-clean btn-lg mr-1" title="GridView" id="kt_quick_panel_toggle" style="padding-top: 0px;margin-left:-8px;margin-top: 4px;cursor: pointer;" (click)="OnChangeGrid()">
+            <img src="assets/Img/grid.png">
+        </div>
+      </div>
+      </div>
+      <div class="col-sm-2" title="ListView">
+        <img src="assets/Img/list.png" alt="NoImage" style="margin-left:40%;padding-top: 6px;cursor: pointer;" (click)="OnChangeList()">
+      </div>
+    </div>
+  </div>
+  <input type="hidden" [(ngModel)]="searchParam">
+  <div *ngIf="view =='grid'" class="row col-sm-12">
+    <ng-container *ngIf="(missionList | search:searchParam | paginate:{itemsPerPage:missionPerPages,currentPage:page,totalItems:totalMission}) as result">
+      <div class="col-sm-4  Rounded-Rectangle-2-copy" *ngFor="let item of result">
+          <div class="card-header" >
+              <img src="{{item.missionImages}}" alt="NoImage" style="width: 420px;height:220px;" onerror="this.src='assets/NoImg.png'">
+              <div class="top-center" *ngIf="item.missionStatus == 'Closed'">CLOSED</div>
+              <div class="top-center" *ngIf="item.missionApplyStatus == 'Applied'">APPLIED</div>
+              <div class="top-center" *ngIf="item.missionApproveStatus === 'Approved'">APPROVED</div>
+              <div class="top-center" *ngIf="item.missionStatus != 'Closed' && item.missionApplyStatus != 'Applied' && item.missionApproveStatus !== 'Approved'">NEW</div>
+              <div class="centered">{{item.missionThemeName}}</div>
+          </div>
+          <div class="card-body">
+            <p class="heading">{{item.missionTitle}}</p>
+            <p class="content"> {{item.missionOrganisationDetail}}</p>
+            <div class="row" style="margin: 14px;">
+              <div class="col-sm-7 contentdetail">
+                {{item.countryName}}
+              </div>
+            </div>
+            <div class="bordert">
+                <div class="text-center data py-3">
+                  <p style="margin-top: -12px">From {{item.startDate | date: 'dd/MM/yyyy'}} until {{item.endDate | date: 'dd/MM/yyyy'}}</p>
+                </div>
+            </div>
+            <div class="SeatDeadLine row">
+                <div class="col-sm-6">
+                  <i class="fa fa-user-circle-o fa-2x"></i>&nbsp;
+                  <span style="font-size: 24px !important;">{{item.totalSheets}}</span> <br/><span style="margin-left:40px">Seats left</span>
+                </div>
+                <div class="col-sm-6">
+                  <i class="fa fa-clock-o fa-2x"></i>&nbsp;
+                  <span style="font-size: 24px !important;">{{item.registrationDeadLine | date: 'dd/MM/yyyy'}}</span> <br/><span style="margin-left:40px">Deadline</span>
+                </div>
+            </div>
+          </div>
+          <P style="border-top: 1px solid rgba(0, 0, 0, 0.06);width:100%"></P>
+          <div class="d-grid card-footer" style="display: flex;justify-content: center;">
+          <button class="btn-login" type="submit" *ngIf="item.missionApplyStatus =='Apply'" (click)="CheckUserLoginOrNot(item.id)" [disabled]="item.missionStatus=='Closed'"><span class="Login">Apply &nbsp;<i style="margin-top: 5px !important;" class="fa fa-arrow-right"></i></span></button>
+          <button class="btn-login" type="submit" *ngIf="item.missionApplyStatus === 'Applied' && item.missionApproveStatus !== 'Approved'" [disabled]="item.missionApplyStatus === 'Applied'"><span class="Login">Applied</span></button>
+          <button class="btn-login" type="submit" *ngIf="item.missionApproveStatus === 'Approved'" [disabled]="item.missionApproveStatus === 'Approved'"><span class="Login">Approve</span></button>
+        </div>
+           <p style="display: none;">{{item.countryId}}</p>
+
+      </div>
+      <div class="col-sm-12 text-center" *ngIf="result.length === 0">
+          <p class="text-secondary" style="font-size:20px"><b>No mission Found</b></p>
+      </div>
+      <div class="mt-8 py-5" *ngIf="result.length != 0" style="display:flex;justify-content: center;">
+        <pagination-controls previousLabel="" nextLabel="" (pageChange)="page = $event"></pagination-controls>
+      </div>
+    </ng-container>
+  </div>
+  <div class="row mt-3" *ngIf="view=='list'">
+    <ng-container *ngIf="(missionList | search:searchParam | paginate:{itemsPerPage:listmissionPerPages,currentPage:page,totalItems:totalMission}) as result">
+    <div class="card ps-md-0 mt-4" *ngFor="let item of result" style="height: 220px;box-shadow: 0px 0px 0.75rem rgba(0,0,0,0.3);">
+          <div class="col-sm-12 row">
+      <div class="col-sm-3">
+        <img src="{{item.missionImages}}" alt="no img" width="100%" height="220px;" onerror="this.src='assets/NoImg.png'">
+        <div class="top-center" *ngIf="item.missionStatus == 'Closed'">Closed</div>
+        <div class="top-center" *ngIf="item.missionApplyStatus == 'Applied'">APPLIED</div>
+        <div class="top-center" *ngIf="item.missionApproveStatus === 'Approved'">APPROVED</div>
+        <div class="top-center" *ngIf="item.missionStatus != 'Closed' && item.missionApplyStatus != 'Applied' && item.missionApproveStatus !== 'Approved'">NEW</div>
+        <div class="list-centered">{{item.missionThemeName}}</div>
+      </div>
+      <div class="col-sm-9">
+        <div class="row col-sm-12">
+          <div class="col-sm-2">
+            <img src="assets/Img/pin1.png" alt="NoImage">&nbsp;{{item.cityName}}
+          </div>
+          <div class="col-sm-4">
+            <img src="assets/Img/web.png" alt="NoImage">&nbsp;<span>{{item.missionThemeName}}</span>
+          </div>
+          <div class="col-sm-4">
+            <img src="assets/Img/organization.png" alt="NoImage">&nbsp;<span>{{item.missionOrganisationName}}</span>
+          </div>  
+        </div>
+        <div class="mt-3">
+            <div style="font-size: 23px;">
+              {{item.missionTitle}}
+            </div>
+            <div class="">
+              {{item.missionDescription}}
+            </div>
+        </div>
+        <div class="row col-sm-12 mt-3">
+          <div class="col-sm-2">
+            <img src="assets/Img/Seats-left.png" alt="NoImage">&nbsp;
+            <span>{{item.totalSheets}}</span> <br/><span style="margin-left:35px">Seats left</span>
+          </div>
+          <div class="col-sm-2">
+            <img src="assets/Img/calender.png" alt="NoImage">&nbsp;
+             {{item.registrationDeadLine | date: 'dd/MM/yyyy'}} <br/> <span style="margin-left:31px;">Deadline</span>
+          </div>
+          <div class="col-sm-3">
+            <img src="assets/Img/calender.png" alt="NoImage">&nbsp;
+            FROM {{item.startDate | date: 'dd/MM/yyyy'}} <br/> <span style="margin-left:31px;">Until {{item.endDate | date: 'dd/MM/yyyy'}}</span>
+          </div>
+          <div class="col-sm-3">
+            <img src="assets/Img/settings.png" alt="NoImage">&nbsp;Skills
+             <br/> <span style="margin-left:21px;word-break: break-all">{{item.missionSkillName}}</span>
+          </div>
+          <div class="col-sm-2">
+            <!-- <button class="btnViewDetail btn-btn-outline" [disabled]="item.missionStatus=='Closed'" type="submit"><span class="ViewDetail">Apply <i style="margin-top: 5px !important;" class="fa fa-arrow-right"></i></span></button> -->
+            <button class="btnViewDetail btn-btn-outline" type="submit" *ngIf="item.missionApplyStatus =='Apply'" (click)="CheckUserLoginOrNot(item.id)" [disabled]="item.missionStatus=='Closed'"><span class="ViewDetail">Apply &nbsp;<i style="margin-top: 5px !important;" class="fa fa-arrow-right"></i></span></button>
+            <button class="btn-login" type="submit" *ngIf="item.missionApplyStatus ==='Applied'" [disabled]="item.missionApplyStatus=='Applied'"><span class="Login">Applied</span></button>
+            <button class="btn-login" type="submit" *ngIf="item.missionApproveStatus === 'Approved'" [disabled]="item.missionApproveStatus === 'Approved'"><span class="Login">Approve</span></button>
+          </div>
+        </div>
+      </div>
+          </div>
+    </div>
+    <div class="col-sm-12 text-center" *ngIf="result.length === 0">
+      <p class="text-secondary" style="font-size:20px"><b>No mission Found</b></p>
+    </div>
+    <div class="mt-8 py-5" *ngIf="result.length != 0" style="display:flex;justify-content: center;">
+      <pagination-controls previousLabel="" nextLabel="" (pageChange)="page = $event"></pagination-controls>
+    </div>
+  </ng-container>
+  </div>
+</div>
+
+
+<div>
+  <app-footer></app-footer>
+</div>
+
+
+
+<div class="modal fade"  id="applyMissionModel" tabindex="-1" role="dialog" aria-labelledby="contactUsModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="contactUsModalLabel">Apply Mission</h5>
+        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close" (click)="CloseMissionApplyModal()">
+        </button>
+      </div>
+
+      <div class="modal-body">
+        <div class="row">
+          <div class="form-group">
+           <label class="col-form-label"><b>Mission Title :</b></label>
+           <label class="col-form-label" style="margin-left:3px;word-wrap: unset;" >{{missionData.missionTitle}}</label>
+          </div>
+          <div class="form-group">
+            <label class="col-form-label"><b>User Name :</b></label>
+            <label class="col-form-label" style="margin-left:3px">{{loginUserName}}</label>
+           </div>
+           <div class="form-group">
+            <label class="col-form-label"><b>Applied Date :</b></label>
+            <label class="col-form-label" style="margin-left:3px">{{appliedDate}}</label>
+           </div>
+           <div class="form-group">
+            <label class="col-form-label"><b>Sheet :</b></label>
+            <label class="col-form-label" style="margin-left:3px">1</label>
+           </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn-Close" data-dismiss="modal" (click)="CloseMissionApplyModal()"><span class="Close"> Cancel</span> </button>
+        <button type="submit" class="btnApplyMission" (click)="ApplyMission()"><span class="ApplyMission">Submit</span></button>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+

@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GTU Summer Internship\\Internship-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GTU Summer Internship\\Internship-main\\InternshipProjectAPI\\DAL\\UserDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InternshipProjectAPI\\DAL\\UserDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GTU Summer Internship\\Internship-main\\InternshipProjectAPI\\BAL\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InternshipProjectAPI\\BAL\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GTU Summer Internship\\Internship-main\\InternshipProjectAPI\\BAL\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InternshipProjectAPI\\BAL\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GTU Summer Internship\\Internship-main\\InternshipProjectAPI\\DAL\\Migrations\\20240703103900_CreateUserTable.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InternshipProjectAPI\\DAL\\Migrations\\20240703103900_CreateUserTable.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GTU Summer Internship\\Internship-main\\InternshipProjectAPI\\DAL\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InternshipProjectAPI\\DAL\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GTU Summer Internship\\Internship-main\\InternshipProjectAPI\\DAL\\Models\\LoginRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InternshipProjectAPI\\DAL\\Models\\LoginRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GTU Summer Internship\\Internship-main\\InternshipProjectAPI\\DAL\\Migrations\\20240703103900_CreateUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InternshipProjectAPI\\DAL\\Migrations\\20240703103900_CreateUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Internship-main\\InternshipProjectAPI\\DAL\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "InternshipProjectAPI\\DAL\\UserDbContext.cs",
+              "ToolTip": "C:\\GTU Summer Internship\\Internship-main\\InternshipProjectAPI\\DAL\\UserDbContext.cs",
+              "RelativeToolTip": "InternshipProjectAPI\\DAL\\UserDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:04:05.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Internship-main\\InternshipProjectAPI\\BAL\\UserService.cs",
+              "RelativeDocumentMoniker": "InternshipProjectAPI\\BAL\\UserService.cs",
+              "ToolTip": "C:\\GTU Summer Internship\\Internship-main\\InternshipProjectAPI\\BAL\\UserService.cs",
+              "RelativeToolTip": "InternshipProjectAPI\\BAL\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:03:52.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Internship-main\\InternshipProjectAPI\\BAL\\IUserService.cs",
+              "RelativeDocumentMoniker": "InternshipProjectAPI\\BAL\\IUserService.cs",
+              "ToolTip": "C:\\GTU Summer Internship\\Internship-main\\InternshipProjectAPI\\BAL\\IUserService.cs",
+              "RelativeToolTip": "InternshipProjectAPI\\BAL\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:03:47.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Internship-main\\InternshipProjectAPI\\DAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "InternshipProjectAPI\\DAL\\Models\\User.cs",
+              "ToolTip": "C:\\GTU Summer Internship\\Internship-main\\InternshipProjectAPI\\DAL\\Models\\User.cs",
+              "RelativeToolTip": "InternshipProjectAPI\\DAL\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:03:14.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Internship-main\\InternshipProjectAPI\\DAL\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "InternshipProjectAPI\\DAL\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\GTU Summer Internship\\Internship-main\\InternshipProjectAPI\\DAL\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "InternshipProjectAPI\\DAL\\Models\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:03:13.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240703103900_CreateUserTable.Designer.cs",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Internship-main\\InternshipProjectAPI\\DAL\\Migrations\\20240703103900_CreateUserTable.Designer.cs",
+              "RelativeDocumentMoniker": "InternshipProjectAPI\\DAL\\Migrations\\20240703103900_CreateUserTable.Designer.cs",
+              "ToolTip": "C:\\GTU Summer Internship\\Internship-main\\InternshipProjectAPI\\DAL\\Migrations\\20240703103900_CreateUserTable.Designer.cs",
+              "RelativeToolTip": "InternshipProjectAPI\\DAL\\Migrations\\20240703103900_CreateUserTable.Designer.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:03:00.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240703103900_CreateUserTable.cs",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Internship-main\\InternshipProjectAPI\\DAL\\Migrations\\20240703103900_CreateUserTable.cs",
+              "RelativeDocumentMoniker": "InternshipProjectAPI\\DAL\\Migrations\\20240703103900_CreateUserTable.cs",
+              "ToolTip": "C:\\GTU Summer Internship\\Internship-main\\InternshipProjectAPI\\DAL\\Migrations\\20240703103900_CreateUserTable.cs",
+              "RelativeToolTip": "InternshipProjectAPI\\DAL\\Migrations\\20240703103900_CreateUserTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:02:53.691Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

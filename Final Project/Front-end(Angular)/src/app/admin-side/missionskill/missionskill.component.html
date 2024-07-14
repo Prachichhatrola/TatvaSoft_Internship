@@ -1,0 +1,71 @@
+<div class="container-fluid">
+  <app-sidebar></app-sidebar>
+   <div class="content">
+    <app-header></app-header>
+      <div class="info">
+       <div>
+           <p class="userLabel">Mission Skill</p>
+       </div>
+       <div class="row">
+           <div class="col-sm-4">
+             <input type="text" [(ngModel)]="searchText" class="searchBox icon" placeholder="Search"/>
+           </div>
+           <div class="col-sm-8" style="display: flex;justify-content: flex-end;">
+               <button class="btnAdd" routerLink="../addMissionSkill"><span class="btnAddIcon"><i class="fa fa-plus"></i></span><span class="add">Add</span></button>
+           </div>
+       </div>
+       <div class="row">
+         <div class="col-sm-12">
+           <div class="tableData">
+             <table style="width: 100%;">
+             <thead>
+               <tr>
+                 <th scope="col">Skill Name</th>
+                 <th scope="col" style="text-align: right;">Status</th>
+                 <th scope="col" style="text-align: right;">Action</th>
+               </tr>
+             </thead>
+             <tbody>
+              <ng-container *ngIf="(missionSkillList | filter:searchText | paginate :{ itemsPerPage: itemsPerPages, currentPage: page })as result">
+                <tr *ngFor="let item of result">
+                 <td>{{item.skillName}}</td>
+                 <td style="text-align: right;color:#14c506;" [ngStyle]="item.status == 'active' ? {'color': '#14c506'} : {'color': '#ff0000'}">{{item.status == 'active' ? 'Active' : 'In-Active'}}</td>
+                 <td style="text-align: right;">
+
+                 </td>
+               </tr>
+               <tr *ngIf="result.length === 0">
+                <td colspan="6" style="text-align:center;width:100%;font-size:20px;color: red;"><b>No Data Found </b> </td>
+              </tr>
+              </ng-container>
+             </tbody>
+           </table>
+           </div>
+           <div class="mt-8 py-5" *ngIf="missionSkillList.length != 0" style="display:flex;justify-content: end;">
+            <pagination-controls previousLabel="" nextLabel="" (pageChange)="page = $event"></pagination-controls>
+          </div>
+         </div>
+       </div>
+     </div>
+   </div>
+ </div>
+
+ <div class="modal fade" style="margin-top: 8%;" id="removeMissionSkillModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Confirm Delete</h5>
+        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close" (click)="CloseDeleteSkillModal()">
+        </button>
+      </div>
+      <div class="modal-body">
+        <input type="hidden" value="{{skillId}}">
+         <h4>Are you sure you want to delete this item?</h4>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btnCancel" data-dismiss="modal" (click)="CloseDeleteSkillModal()"><span class="Cancel"> Cancel</span> </button>
+        <button type="button" class="btnRemove"><span class="remove" (click)=" DeleteSkillModal()">Delete</span></button>
+      </div>
+    </div>
+  </div>
+</div>

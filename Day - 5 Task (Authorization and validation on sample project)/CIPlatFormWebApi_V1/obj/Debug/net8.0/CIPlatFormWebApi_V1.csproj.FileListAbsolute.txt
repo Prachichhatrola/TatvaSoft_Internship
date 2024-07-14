@@ -1,0 +1,233 @@
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\CIPlatFormWebApi_V1.exe
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\CIPlatFormWebApi_V1.deps.json
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\CIPlatFormWebApi_V1.runtimeconfig.json
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\CIPlatFormWebApi_V1.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\CIPlatFormWebApi_V1.pdb
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Humanizer.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Npgsql.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Data_Logic_Layer.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Data_Logic_Layer.pdb
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\obj\Debug\net8.0\CIPlatFormWebApi_V1.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\obj\Debug\net8.0\CIPlatFormWebApi_V1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\obj\Debug\net8.0\CIPlatFormWebApi_V1.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\obj\Debug\net8.0\CIPlatFormWebApi_V1.AssemblyInfo.cs
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\obj\Debug\net8.0\CIPlatFormWebApi_V1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\obj\Debug\net8.0\CIPlatFormWebApi_V1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\obj\Debug\net8.0\CIPlatFormWebApi_V1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\obj\Debug\net8.0\staticwebassets\msbuild.CIPlatFormWebApi_V1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\obj\Debug\net8.0\staticwebassets\msbuild.build.CIPlatFormWebApi_V1.props
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CIPlatFormWebApi_V1.props
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CIPlatFormWebApi_V1.props
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\obj\Debug\net8.0\scopedcss\bundle\CIPlatFormWebApi_V1.styles.css
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\obj\Debug\net8.0\CIPlatFo.6C7DDB00.Up2Date
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\obj\Debug\net8.0\CIPlatFormWebApi_V1.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\obj\Debug\net8.0\refint\CIPlatFormWebApi_V1.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\obj\Debug\net8.0\CIPlatFormWebApi_V1.pdb
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\obj\Debug\net8.0\CIPlatFormWebApi_V1.genruntimeconfig.cache
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\obj\Debug\net8.0\ref\CIPlatFormWebApi_V1.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Business_Logic_Layer.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Business_Logic_Layer.pdb
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Documents\CIPlatFormWebApi_V1\CIPlatFormWebApi_V1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\appsettings.Development.json
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\appsettings.json
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\CIPlatFormWebApi_V1.exe
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\CIPlatFormWebApi_V1.deps.json
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\CIPlatFormWebApi_V1.runtimeconfig.json
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\CIPlatFormWebApi_V1.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\CIPlatFormWebApi_V1.pdb
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Humanizer.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Npgsql.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\System.CodeDom.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Business_Logic_Layer.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Data_Logic_Layer.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Business_Logic_Layer.pdb
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\bin\Debug\net8.0\Data_Logic_Layer.pdb
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\obj\Debug\net8.0\CIPlatFormWebApi_V1.csproj.AssemblyReference.cache
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\obj\Debug\net8.0\CIPlatFormWebApi_V1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\obj\Debug\net8.0\CIPlatFormWebApi_V1.AssemblyInfoInputs.cache
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\obj\Debug\net8.0\CIPlatFormWebApi_V1.AssemblyInfo.cs
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\obj\Debug\net8.0\CIPlatFormWebApi_V1.csproj.CoreCompileInputs.cache
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\obj\Debug\net8.0\CIPlatFormWebApi_V1.MvcApplicationPartsAssemblyInfo.cs
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\obj\Debug\net8.0\CIPlatFormWebApi_V1.MvcApplicationPartsAssemblyInfo.cache
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\obj\Debug\net8.0\CIPlatFormWebApi_V1.sourcelink.json
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\obj\Debug\net8.0\staticwebassets.build.json
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\obj\Debug\net8.0\staticwebassets.development.json
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\obj\Debug\net8.0\staticwebassets\msbuild.CIPlatFormWebApi_V1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\obj\Debug\net8.0\staticwebassets\msbuild.build.CIPlatFormWebApi_V1.props
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CIPlatFormWebApi_V1.props
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CIPlatFormWebApi_V1.props
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\obj\Debug\net8.0\scopedcss\bundle\CIPlatFormWebApi_V1.styles.css
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\obj\Debug\net8.0\CIPlatFo.6C7DDB00.Up2Date
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\obj\Debug\net8.0\CIPlatFormWebApi_V1.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\obj\Debug\net8.0\refint\CIPlatFormWebApi_V1.dll
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\obj\Debug\net8.0\CIPlatFormWebApi_V1.pdb
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\obj\Debug\net8.0\CIPlatFormWebApi_V1.genruntimeconfig.cache
+C:\GTU Summer Internship\Day - 5 Task (Authorization and validation on sample project)\CIPlatFormWebApi_V1\obj\Debug\net8.0\ref\CIPlatFormWebApi_V1.dll

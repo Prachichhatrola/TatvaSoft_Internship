@@ -1,0 +1,45 @@
+<div class="container-fluid ps-md-0">
+  <div class="row g-0">
+    <div class="d-flex col-md-6 col-lg-9 bg-image-container">
+      <img src="assets/Images/image.png" alt="No Image" class="bg-image">
+      <div class="carousel-caption">
+        <div>
+          <p class="heading">Sed ut perspiciatis unde omnis
+            iste natus voluptatem.</p>
+          <p class="content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6 col-lg-3 d-flex align-items-center justify-content-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-9 col-lg-8">
+            <form [formGroup]="loginForm" (ngSubmit)="OnSubmit()">
+              <div class="form-group">
+                <label class="col-form-label">Email Address</label>
+                <input type="text" class="form-control" formControlName="emailAddress" placeholder="even.donohue@gmail.com" autofocus>
+                <span class="text-danger" *ngIf="emailAddress.invalid && (emailAddress.touched || formValid)">
+                  <span *ngIf="emailAddress.hasError('required')">Please Enter EmailAddress</span>
+                  <span *ngIf="emailAddress.hasError('email')">Please Enter Valid EmailAddress</span>
+                </span>
+              </div>
+              <div class="form-group">
+                <label class="col-form-label">Password</label>
+                <input type="password" onpaste="return false" class="form-control" formControlName="password" placeholder="**********">
+                <span class="text-danger" *ngIf="password.invalid && (password.touched || formValid)">Please Enter Password</span>
+              </div>
+              <div class="d-grid mt-3">
+                <button class="btn-login" type="submit"><span class="Login">Login</span></button>
+              </div>
+            </form>
+          </div>
+        </div>
+        <div class="row mt-3">
+          <div class="col">
+            <p class="text-center">Privacy Policy</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

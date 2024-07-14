@@ -1,0 +1,271 @@
+<div>
+  <app-navbar></app-navbar>
+  <hr style="margin: 0rem 0 !important"/>
+</div>
+<div class="container-fluid">
+  <form [formGroup]="userProfileForm">
+<div class="row">
+  <input type="hidden" formControlName="id">
+  <div class="col-sm-4 detail">
+      <img src="{{userImage}}" onerror="this.src='assets/NoUser.png'" alt="NoImage" class="userImage" (click)="userImg.click()" style="cursor: pointer;">
+      <input type="file" #userImg style="display: none;" (change)="OnSelectImage($event)" formControlName="userImage">
+      <!-- <span class="text-danger" *ngIf="userProfileForm.controls['userImage'].dirty && userProfileForm.hasError('required','userImage')">Please Select UserImage</span> -->
+      <p class="userName">{{loginName}}</p>
+      <p class="changepassword" (click)="OpenChangePasswordModal()">Change Password</p>
+  </div>
+  <div class="col-sm-8 basicInfo">
+    <p>Basic Information</p>
+    <hr style="width: 100%;margin-bottom: 2%;"/>
+    <div class="row">
+      <div class="form-group row">
+          <div class="col-sm-6">
+            <label class="col-form-label">Name<span class="text-success">*</span></label>
+            <input type="text" class="form-control" placeholder="Enter your name" formControlName="name">
+            <span class="text-danger" *ngIf="userProfileForm.controls['name'].dirty && userProfileForm.hasError('required','name')">Please Enter Name</span>
+            <span class="text-danger" *ngIf="userProfileForm.hasError('maxLength','name')">Maximum 16 characters are allowed</span>
+          </div>
+          <div class="col-sm-6">
+            <label class="col-form-label">Surname<span class="text-success">*</span></label>
+            <input type="text" class="form-control" placeholder="Enter your surname" formControlName="surname">
+            <span class="text-danger" *ngIf="userProfileForm.controls['surname'].dirty && userProfileForm.hasError('required','surname')">Please Enter SurName</span>
+            <span class="text-danger" *ngIf="userProfileForm.hasError('maxLength','surname')">Maximum 16 characters are allowed</span>
+          </div>
+      </div>
+      <div class="form-group row mt-1">
+        <div class="col-sm-6">
+          <label class="col-form-label">Employee ID</label>
+          <input type="text" class="form-control" placeholder="Enter your employee id" formControlName="employeeId">
+        </div>
+        <div class="col-sm-6">
+          <label class="col-form-label">Manager</label>
+          <input type="text" class="form-control" placeholder="Enter your manager details" formControlName="manager">
+        </div>
+      </div>
+      <div class="form-group row mt-1">
+        <div class="col-sm-6">
+          <label class="col-form-label">Title</label>
+          <input type="text" class="form-control" placeholder="Enter your title" formControlName="title">
+          <span class="text-danger" *ngIf="userProfileForm.hasError('maxLength','title')">Maximum 255 characters are allowed</span>
+        </div>
+        <div class="col-sm-6">
+          <label class="col-form-label">Department</label>
+          <input type="text" class="form-control" placeholder="Enter your department" formControlName="department">
+          <span class="text-danger" *ngIf="userProfileForm.hasError('maxLength','department')">Maximum 16 characters are allowed</span>
+        </div>
+      </div>
+      <div class="form-group row mt-1">
+        <div class="col-sm-12">
+          <label class="col-form-label">My Profile<span class="text-success">*</span></label>
+          <textarea class="form-control" rows="5" placeholder="Enter your comments..." formControlName="myProfile"></textarea>
+          <span class="text-danger" *ngIf="userProfileForm.controls['myProfile'].dirty && userProfileForm.hasError('required','myProfile')">Please Enter MyProfile</span>
+        </div>
+      </div>
+      <div class="form-group row mt-1">
+        <div class="col-sm-12">
+          <label class="col-form-label">Why I Volunteer?</label>
+          <textarea class="form-control" rows="5" placeholder="Enter your comments..." formControlName="whyIVolunteer"></textarea>
+        </div>
+      </div>
+      <div class="col-sm-12 basicInfo">
+        <p>Address Information</p>
+        <hr style="width: 100%;margin-bottom: 2%;"/>
+        <div class="row">
+          <div class="form-group row">
+            <div class="col-sm-6">
+              <label class="col-form-label">Country<span class="text-success">*</span></label>
+              <select class="form-select" (change)="CityList($event)" formControlName="countryId">
+                <option *ngFor="let item of countryList" value="{{item.value}}">  {{item.text}}</option>
+              </select>
+              <span class="text-danger" *ngIf="userProfileForm.controls['countryId'].dirty && userProfileForm.hasError('required','countryId')">Please Select Country</span>
+            </div>
+            <div class="col-sm-6">
+              <label class="col-form-label">City<span class="text-success">*</span></label>
+              <select class="form-select" formControlName="cityId">
+                <option value="">Select City</option>
+                <option *ngFor="let item of cityList" value="{{item.value}}">{{item.text}}</option>
+              </select>
+              <span class="text-danger" *ngIf="userProfileForm.controls['cityId'].dirty && userProfileForm.hasError('required','cityId')">Please Select City</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 basicInfo">
+        <p>Professional Information</p>
+        <hr style="width: 100%;margin-bottom: 2%;"/>
+        <div class="row">
+          <div class="form-group row">
+            <div class="col-sm-6">
+              <label class="col-form-label">Avilability</label>
+              <select class="form-select" formControlName="avilability">
+                <option value="">Select your avilability</option>
+                <option value="Payment Availability">Payment Availability</option>
+                <option value="Block Availability">Block Availability</option>
+                <option value="Period Availability">Period Availability</option>
+                <option value="Standards Availability">Standards Availability</option>
+                <option value="Service Availability">Service Availability</option>
+                <option value="Daily">Daily</option>
+                <option value="Weekend">Weekend</option>
+                <option value="Monthly">Monthly</option>
+                <option value="Yearly">Yearly</option>
+              </select>
+            </div>
+            <div class="col-sm-6">
+              <label class="col-form-label">LinkedIn</label>
+              <input type="text" class="form-control" placeholder="Enter linkedin url" formControlName="linkdInUrl">
+            </div>
+              <input type="hidden" formControlName="userId">
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 basicInfo">
+        <p>My Skills</p>
+        <hr style="width: 100%;margin-bottom: 2%;"/>
+        <div class="row">
+          <div class="form-group row">
+            <div class="col-sm-12">
+              <select class="form-select" multiple="multiple" formControlName="mySkills">
+                <option *ngFor="let item of userSkillList" value="{{item}}">{{item}}</option>
+              </select>
+              <span class="text-danger" *ngIf="userProfileForm.controls['mySkills'].dirty && userProfileForm.hasError('required','mySkills')">Please Select Skill</span>
+            </div>
+          </div>
+          <div class="form-group row mt-3">
+            <button class="btn-skill" type="button" (click)="OpenAddYourSkillModal()"><span class="Skill">Add Skill</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</form>
+<div class="row justify-content-center">
+  <button class="btn-Close" type="button" (click)="OnCancel()"><span class="Close">Cancel</span></button>
+  <button class="btn-save" type="button" (click)="OnSubmit()"><span class="Save">Save</span></button>
+</div>
+</div>
+<div class="container-fluid footer">
+  <hr/>
+  <div class="row">
+    <div class="col-sm-6" style="display: flex;justify-content: flex-end;cursor: pointer;"><p>Privacy Policy</p></div>
+    <div class="col-sm-6" style="display: flex;justify-content: flex-start;cursor: pointer;" (click)="OpenContactUsModal()"><p>Contact us</p></div>
+  </div>
+
+</div>
+
+
+<div class="modal fade" style="margin-top: 6%;" id="changePasswordModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Change Password</h5>
+        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close" (click)="CloseChangePasswordModal()">
+        </button>
+      </div>
+      <form autocomplete="off" #changePasswordForm="ngForm" (ngSubmit)="changePasswordForm.form.valid && OnSubmitChangePassword(changePasswordForm)">
+      <div class="modal-body">
+        <div class="row">
+
+          <div class="form-group">
+            <input type="password" class="form-control" placeholder="Enter old password" name="oldPassword" #oldPassword="ngModel" [(ngModel)]="changePass.oldPassword" required>
+            <span class="text-danger" *ngIf="oldPassword.invalid && (oldPassword.touched || oldPassword.dirty)">
+                OldPassword is Required
+            </span>
+          </div>
+          <div class="form-group mt-3">
+            <input type="password" class="form-control" placeholder="Enter new password" name="newPassword" #newPassword="ngModel"  [(ngModel)]="changePass.newPassword" required>
+            <span class="text-danger" *ngIf="newPassword.invalid && (newPassword.touched || newPassword.dirty)">
+              NewPassword is Required
+            </span>
+          </div>
+          <div class="form-group mt-3">
+            <input type="password" class="form-control" placeholder="Enter confirm password" name="confirmPassword" #confirmPassword="ngModel"  [(ngModel)]="changePass.confirmPassword" required>
+            <span class="text-danger" *ngIf="confirmPassword.invalid && (confirmPassword.touched || newPassword.dirty)">
+              ConfirmPassword is Required
+          </span>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btnCancel" data-dismiss="modal" (click)="CloseChangePasswordModal()"><span class="Cancel"> Cancel</span> </button>
+        <button type="submit" class="btnChangePassword"><span class="Change">Change Password</span></button>
+      </div>
+    </form>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade"   id="addSkillModal" tabindex="-1" aria-labelledby="addSkillLabel" aria-hidden="true" role="dialog">
+  <div class="modal-dialog modal-lg modal-dialog-centered" role="document"  >
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="addSkillLabel">Add your Skills</h5>
+        <button class="btn-close" type="button" data-dismiss="modal" aria-label="Close" (click)="CloseAddYourSkillModal()"></button>
+      </div>
+      <div class="modal-body text-center">
+        <kendo-listbox
+             #Listbox1
+             [data]="data"
+            class="kendolistdata1"
+           (actionClick)="OnSubmitSkillModal($event)"
+            kendoListBoxDataBinding
+           [toolbar]="toolbarSettings"
+           [connectedWith]="Listbox2">
+       </kendo-listbox>
+
+       <kendo-listbox
+           #Listbox2
+           [data]="data1"
+           class="kendolistdata2"
+           (actionClick)="OnSubmitSkillModal($event)"
+           [toolbar]="false">
+        </kendo-listbox>
+      </div>
+      <div class="modal-footer" style="display: flex;justify-content: flex-start;">
+        <button type="button" class="btnCancel" data-dismiss="modal" (click)="CloseAddYourSkillModal()"><span class="Cancel"> Cancel</span> </button>
+        <button type="button" class="btnSkillSave" (click)="SaveSkill()"><span class="SkillSave">Save</span></button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="modal fade"  id="contactUsModal" tabindex="-1" role="dialog" aria-labelledby="contactUsModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="contactUsModalLabel">Contact Us</h5>
+        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close" (click)="CloseContactUsModal()">
+        </button>
+      </div>
+      <form autocomplete="off" #myForm="ngForm" (ngSubmit)="myForm.form.valid && OnSubmitContactUs(myForm)">
+      <div class="modal-body">
+        <div class="row">
+          <input type="hidden" name="userId" #userId="ngModel" [(ngModel)]="contactUs.userId">
+          <div class="form-group">
+            <label class="col-form-label">Name<span class="text-danger">*</span></label>
+            <input type="text" class="form-control"  name="name" #name="ngModel" [(ngModel)]="contactUs.name" disabled>
+          </div>
+          <div class="form-group">
+            <label class="col-form-label">Email Address<span class="text-danger">*</span></label>
+            <input type="text" class="form-control"  name="emailAddress" #emailAddress="ngModel" [(ngModel)]="contactUs.emailAddress" disabled>
+          </div>
+          <div class="form-group mt-3">
+            <label class="col-form-label">Subject</label>
+            <input type="text" class="form-control" placeholder="Enter your subject" name="subject" #subject="ngModel" [(ngModel)]="contactUs.subject" required>
+            <span class="text-danger" *ngIf="subject.invalid && (subject.touched || subject.dirty)">Please Enter Subject</span>
+          </div>
+          <div class="form-group mt-3">
+            <label class="col-form-label">Message</label>
+            <textarea class="form-control" rows="3"placeholder="Enter your message.." name="message" #message="ngModel" [(ngModel)]="contactUs.message" required></textarea>
+            <span class="text-danger" *ngIf="message.invalid && (message.touched || message.dirty)">Please Enter Message</span>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn-Close" data-dismiss="modal" (click)="CloseContactUsModal()"><span class="Close"> Cancel</span> </button>
+        <button type="submit" class="btn-save"><span class="Save">Save</span></button>
+      </div>
+    </form>
+    </div>
+  </div>
+</div>

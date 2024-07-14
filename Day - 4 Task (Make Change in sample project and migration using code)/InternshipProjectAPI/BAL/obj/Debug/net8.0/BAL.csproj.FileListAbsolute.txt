@@ -1,0 +1,46 @@
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\BAL\bin\Debug\net8.0\BAL.deps.json
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\BAL\bin\Debug\net8.0\BAL.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\BAL\bin\Debug\net8.0\BAL.pdb
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\BAL\bin\Debug\net8.0\DAL.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\BAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\BAL\obj\Debug\net8.0\BAL.csproj.AssemblyReference.cache
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\BAL\obj\Debug\net8.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\BAL\obj\Debug\net8.0\BAL.AssemblyInfoInputs.cache
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\BAL\obj\Debug\net8.0\BAL.AssemblyInfo.cs
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\BAL\obj\Debug\net8.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\BAL\obj\Debug\net8.0\BAL.csproj.Up2Date
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\BAL\obj\Debug\net8.0\BAL.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\BAL\obj\Debug\net8.0\refint\BAL.dll
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\BAL\obj\Debug\net8.0\BAL.pdb
+C:\Users\ptdrd\source\repos\InternshipProjectAPI\BAL\obj\Debug\net8.0\ref\BAL.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\BAL\bin\Debug\net8.0\BAL.deps.json
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\BAL\bin\Debug\net8.0\BAL.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\BAL\bin\Debug\net8.0\BAL.pdb
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\BAL\bin\Debug\net8.0\DAL.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\BAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\BAL\obj\Debug\net8.0\BAL.csproj.AssemblyReference.cache
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\BAL\obj\Debug\net8.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\BAL\obj\Debug\net8.0\BAL.AssemblyInfoInputs.cache
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\BAL\obj\Debug\net8.0\BAL.AssemblyInfo.cs
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\BAL\obj\Debug\net8.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\BAL\obj\Debug\net8.0\BAL.csproj.Up2Date
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\BAL\obj\Debug\net8.0\BAL.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\BAL\obj\Debug\net8.0\refint\BAL.dll
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\BAL\obj\Debug\net8.0\BAL.pdb
+C:\Users\ptdrd\Documents\GitHub\Internship\InternshipProjectAPI\BAL\obj\Debug\net8.0\ref\BAL.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\BAL\obj\Debug\net8.0\BAL.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\BAL\obj\Debug\net8.0\refint\BAL.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\BAL\obj\Debug\net8.0\BAL.pdb
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\BAL\bin\Debug\net8.0\BAL.deps.json
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\BAL\bin\Debug\net8.0\BAL.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\BAL\bin\Debug\net8.0\BAL.pdb
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\BAL\bin\Debug\net8.0\DAL.dll
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\BAL\bin\Debug\net8.0\DAL.pdb
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\BAL\obj\Debug\net8.0\BAL.csproj.AssemblyReference.cache
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\BAL\obj\Debug\net8.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\BAL\obj\Debug\net8.0\BAL.AssemblyInfoInputs.cache
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\BAL\obj\Debug\net8.0\BAL.AssemblyInfo.cs
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\BAL\obj\Debug\net8.0\BAL.csproj.CoreCompileInputs.cache
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\BAL\obj\Debug\net8.0\BAL.sourcelink.json
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\BAL\obj\Debug\net8.0\BAL.csproj.Up2Date
+C:\GTU Summer Internship\Internship-main\InternshipProjectAPI\BAL\obj\Debug\net8.0\ref\BAL.dll

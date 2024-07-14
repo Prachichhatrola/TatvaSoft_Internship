@@ -1,0 +1,96 @@
+*{
+  /* margin: 0;
+  padding: 0; */
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  overflow:hidden;
+}
+.container-fluid{
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.container-fluid .content{
+  width: 100%;
+  margin-left: 300px;
+}
+
+.container-fluid .content .info{
+  margin: 20px;
+  color: #717171;
+  line-height: 25px;
+  text-align: justify;
+}
+
+.skills{
+  overflow-y: auto;
+}
+.card-header{
+  font-size: 22px;
+  font-weight: 400;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+}
+.col-form-label{
+  font-family: NotoSans;
+  font-size: 15px;
+  font-weight: 400;
+  text-align: left;
+  color: #414141;
+}
+
+.btnCancel{
+  width: 119px;
+  height: 48px;
+  border-radius: 24px;
+  border: solid 2px #757575;
+  background-color: #fff;
+  margin-right:15px;
+}
+.cancel{
+  width: 43px;
+  height: 18px;
+  font-size: 17px;
+  text-align: left;
+  color: #757575;
+}
+
+.btnSave{
+  width: 119px;
+  height: 48px;
+  border-radius: 24px;
+  border: solid 2px #f88634;
+  background-color: white;
+  margin-right:15px;
+}
+.save{
+  width: 43px;
+  height: 18px;
+  font-size: 17px;
+  text-align: left;
+  color: #f88634;
+}
+.dropZone{
+  border: 1px dashed #aaa;
+  height: 65px;
+  display: table;
+  width: 100%;
+  background-color: #fff;
+}
+.text-wrapper{
+  display: table-cell;
+  vertical-align: middle;
+}
+.btnremove{
+  margin-top: -203%;
+  margin-left: 70%;
+   border: none;
+   font-size: 20px;
+   color:black
+}
+.btnremove:hover{
+  background-color: #aaa;
+}

@@ -1,0 +1,517 @@
+/* Example of a media query for smaller screens */
+@media screen and (max-width: 768px) {
+  /* CSS styles for smaller screens */
+}
+.container {
+  width: 100%; /* Example of using percentage for width */
+}
+img {
+  max-width: 100%; /* Example of setting maximum width for images */
+}
+/* Example of increasing the size of tap targets */
+.button {
+  padding: 10px 20px;
+}
+
+.content .heading{
+  width: 559px;
+  height: 87px;
+  margin: 49px 100px 0px 61px;
+  font-family: NotoSans;
+  font-size: 38px;
+  font-weight: 200;
+  text-align: left;
+  color: #414141;
+}
+.content .detail{
+  width: 615px;
+  height: 45px;
+  margin: 25px 43px 5px 62px;
+  font-family: NotoSans;
+  font-size: 17px;
+  font-weight: 300;
+
+  text-align: left;
+  color: #414141;
+}
+.bordert{
+  border-top: 1px solid rgba(0, 0, 0, 0.06);
+  background-color: #fff;
+  position: relative;
+  margin-top: 25px;
+  margin-left: 10%;
+}
+.content .totalTreegoal{
+  position: absolute;
+  top: -21px;
+  left: 33%;
+  width: fit-content;
+  height: 38px;
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  padding: 6px 29px 6px 37px;
+  border-radius: 17.5px;
+}
+.totalTreetime{
+  position: absolute;
+  top: -21px;
+  left: 24%;
+  width: fit-content;
+  height: 38px;
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  padding: 6px 29px 6px 37px;
+  border-radius: 17.5px;
+}
+.progress{
+  margin-left: 15%;
+  margin-top: -12%;
+  margin-bottom: -10%;
+}
+.btnMission {
+  width: 306px;
+  height: 50px;
+  margin: 35px 100px 15px 61px;
+  border-radius: 25px;
+  border: solid 2px #757575;
+  background-color: #fff;
+}
+
+.Mission{
+  width: 256px;
+  height: 13px;
+  margin: 2px 0 5px 9px;
+  font-family: NotoSans;
+  font-size: 17px;
+  text-align: left;
+  color: #757575;
+}
+.content .totalRating{
+  width: 197px;
+  height: 42px;
+  margin: 5px 4px 3px 292px;
+  padding: 6px 29px 12px 37px;
+}
+.fa-star{
+  font-size: 20px;
+  margin-right: 2px;
+  margin-top: 5px;
+  color: #ddd;
+}
+.checked{
+  color:orange;
+}
+.top-left {
+  top: 8px;
+  left: 16px;
+}
+.bottom-left {
+  margin-top: 5%;
+  word-wrap: unset;
+  width: 142px;
+  font-weight: 16px;
+}
+.carddetail{
+  width: 153px;
+  height: 130px;
+  margin: 15px -50px 30px 61px;
+  padding: 16px 84px 18px 11px;
+  border-radius: 3px;
+  border: solid 1px #e8e8e8;
+  background-color: #fff;
+}
+.btn-login {
+  width: 273px;
+  height: 48px;
+  border-radius: 24px;
+  border: solid 2px #f88634;
+  background-color: white;
+}
+
+.Login{
+  width: 43px;
+  height: 18px;
+  font-size: 22px;
+  text-align: left;
+  color: #f88634;
+}
+
+.Introduction{
+  width: 144px;
+  height: 20px;
+  font-family: NotoSans;
+  font-size: 25px;
+  text-align: left;
+  color: #414141;
+}
+.contentDetail{
+  width: 891px;
+  height: 232px;
+  margin-top: 25px;
+  font-family: NotoSans;
+  font-size: 15px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.6;
+  letter-spacing: normal;
+  text-align: left;
+  color: #414141;
+}
+.document{
+  margin-right: 15px;
+  margin-top: 15px;
+  border-radius: 25px;
+  padding:4px 18px 4px 14px;
+  text-align: center;
+  border: solid 2px #757575;
+  background-color: white;
+  min-width: fit-content;
+  max-width: fit-content;
+}
+.documentFile{
+  font-family: NotoSans;
+  margin-left: 10px;
+  font-size: 15px;
+  font-weight: 300;
+  color: #414141;
+}
+.cardInformation{
+  width: 461px;
+  height: 225px;
+  margin: 3px 234px 25px 40px;
+  padding: 0px 31px 20px;
+  border: solid 1px #e8e8e8;
+}
+.cardBodyDetail{
+  width: 400px; height: 17px;margin: 0 5px 20px 0;font-family: NotoSans;font-size: 17px;  text-align: left;color: #414141;
+}
+.underLine{
+  width: 375px;height: 1px;margin-left: -1%;border: 1px solid #e8e8e8;
+}
+.userInformation{
+  width: 461px;
+  height: 500px;
+  margin: 3px 234px 25px 40px;
+  padding: 0px 31px 20px;
+  border: 1px solid #e8e8e8;
+}
+.container-fluid{
+  --bs-gutter-x: 0rem !important;
+}
+
+.Rounded-Rectangle-2-copy {
+  width: 460px;
+  height: 634px;
+  margin: 26px 30px 40px;
+  padding: 0 0 22px;
+  border-radius: 3px;
+  box-shadow: 0 0 25px 0 rgba(0, 0, 0, 0.06);
+  background-color: #fff;
+}
+.location{
+  width: 615px;
+  height: 95px;
+  margin: 0 231px 29px 2px;
+  font-size: 43px;
+  text-align: left;
+  color: #fff;
+}
+.card-header {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.bottom-lefts {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  width: 97px;
+  height: 35px;
+  margin: 0 0 60px;
+  padding: 5px 13px 7px;
+  opacity: 0.4;
+  border-radius: 17.5px;
+  background-color: black;
+}
+.bottom-rights{
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+  width: 48px;
+  height: 40px;
+  margin: 60px 0 11px 55px;
+  padding: 9px 4px 3px;
+  opacity: 0.4;
+  border-radius: 55%;
+  background-color: black;
+}
+.bottom-rightss{
+  position: absolute;
+  bottom: 52px;
+  right: 16px;
+  width: 48px;
+  height: 40px;
+  margin: 60px 0 11px 55px;
+  padding: 9px 4px 3px;
+  opacity: 0.4;
+  border-radius: 55%;
+  background-color: black;
+}
+.centered {
+  position: absolute;
+  top: 98%;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  background-color: white;
+  font-size: 17px;
+  text-align: center;
+  color: #414141;
+  font-family: NotoSans;
+  left: 50%;
+  width: 130px;
+  transform: translate(-50%, -50%);
+}
+
+.card-body .heading{
+  width: 339px;
+  height: 61px;
+  margin: 13px 16px 14px 30px;
+  font-family: NotoSans;
+  font-size: 26px;
+  line-height: 1.31;
+  text-align: left;
+  color: #414141;
+}
+
+.card-body .content{
+  width: 375px;
+  height: 40px;
+  margin: 14px 3px 16px 30px;
+  font-family: NotoSans;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 1.6;
+  text-align: left;
+  color: #757575;
+}
+.contentdetail{
+  font-family: NotoSans;
+  font-size: 17px;
+  font-weight: 400;
+  text-align: left;
+  color: #414141;
+}
+.fa-star{
+  margin-right: 2px;
+  margin-top: 5px;
+  color: #ddd;
+}
+.checked{
+  color:orange;
+}
+.SeatDeadLines{
+  width: 400px;
+  height: 61px;
+  margin: 25px 16px 14px 164px;
+  font-family: NotoSans;
+  font-size: 16px;
+  line-height: 1.31;
+  text-align: left;
+  color: #414141;
+}
+.datedisplay{
+  position: absolute;
+  top:66%;
+  left: 25%;
+  width: 278px;
+  border-radius: 25px;
+  border: 1px solid #e8e8e8;
+  padding: 2px;
+  font-size: 17px;
+  text-align: center;
+  color: #414141;
+  font-family: NotoSans;
+  transform: translate(-50%, -50%);
+}
+.SeatDeadLine{
+  width: 400px;
+  height: 61px;
+  margin: 25px 16px 14px 16px;
+  font-family: NotoSans;
+  font-size: 16px;
+  line-height: 1.31;
+  text-align: left;
+  color: #414141;
+}
+.btn-logins {
+  width: 151px;
+  height: 48px;
+  border-radius: 24px;
+  border: solid 2px #f88634;
+  background-color: white;
+}
+
+.Logins{
+  width: 43px;
+  height: 18px;
+  font-size: 22px;
+  text-align: left;
+  color: #f88634;
+}
+.missionLabel{
+  width: fit-content;
+  height: 42px;
+  margin: 40px 47px 5px 110px;
+  padding: 6px 29px 12px 37px;
+  border-radius: 20.5px;
+  border: solid 1px #e8e8e8;
+  background-color: #fff;
+}
+.bottom-leftimg {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  width: 124px;
+  height: 35px;
+  margin: 0 0 60px;
+  padding: 5px 13px 7px;
+  opacity: 0.4;
+  border-radius: 17.5px;
+  background-color: black;
+}
+.bottom-rightimg{
+  position: absolute;
+  bottom: 18px;
+  right: 16px;
+  width: 48px;
+  height: 40px;
+  margin: 60px 0 1px 55px;
+  padding: 9px 4px 3px;
+  opacity: 0.4;
+  border-radius: 55%;
+  background-color: black;
+}
+.bottom-rightsimg{
+  position: absolute;
+  bottom: 52px;
+  right: 16px;
+  width: 48px;
+  height: 40px;
+  margin: 60px 0 11px 55px;
+  padding: 9px 4px 3px;
+  opacity: 0.4;
+  border-radius: 55%;
+  background-color: black;
+}
+
+.userimg{
+  border-radius:50%;
+  margin-top: 30%;
+  width: 60px;
+  height: 60px;
+}
+.commentdisc{
+  font-size: 16px;
+}
+
+
+.modal-header {
+  border: none;
+}
+.modal-footer {
+  display: flex;
+  justify-content: center;
+  border: none;
+}
+.modal-title{
+  font-size: 21px;
+}
+.modal-content{
+  border:1px solid #d9d9d9 !important;
+}
+.modal-header .close {
+  padding: 10px 15px;
+}
+.modal-header ul {
+  border: none;
+}
+.modal-header ul li {
+  margin: 0;
+}
+.modal-header ul li a {
+  border: none;
+  border-radius: 0;
+}
+.modal-header ul li.active a {
+  color: #e12f27;
+}
+.modal-header ul li a:hover {
+  border: none;
+}
+.modal-header ul li a span {
+  margin-left: 10px;
+}
+
+.btnCancel{
+  width: 119px;
+  height: 48px;
+  border-radius: 24px;
+  border: solid 2px #757575;
+  background-color: #fff;
+  margin-right:15px;
+}
+.bcancel{
+  width: 43px;
+  height: 18px;
+  font-size: 17px;
+  text-align: left;
+  color: #757575;
+}
+
+.btnRemove{
+  width: 119px;
+  height: 48px;
+  border-radius: 24px;
+  border: solid 2px #f88634;
+  background-color: white;
+  margin-right:15px;
+}
+.bremove{
+  width: 43px;
+  height: 18px;
+  font-size: 17px;
+  text-align: left;
+  color: #f88634;
+}
+
+::ng-deep label.star {
+  padding: 0 4px !important;
+  font-size: 18px !important;
+  color: #ddd !important;
+}
+::ng-deep label.star::before {
+  content: "\f005" !important;
+}
+::ng-deep label.star:hover {
+  transform: rotate(0deg) scale(1.2) !important;
+}
+.bordert{
+  border-top: 1px solid rgba(0, 0, 0, 0.06);
+  background-color: #fff;
+  position: relative;
+  margin-top: 25px;
+  margin-left: 0px;
+}
+
+.data{
+  position: absolute;
+  top: -18px;
+  left: 32%;
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  padding: 0 10px;
+  border-radius: 17.5px;
+  height:1px
+}

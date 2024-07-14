@@ -1,0 +1,121 @@
+<div>
+  <app-navbar></app-navbar>
+  <app-searchin-sorting></app-searchin-sorting>
+  </div>
+  <button
+  style="margin: 50px; padding: 10px"
+  type="button"
+  class="btn btn-primary"
+  (click)="openPopup()">Show Data
+</button>
+  <div class="modal" tabindex="-1" role="dialog" [ngStyle]="{'display':displayStyle}" >
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title">Add New Mission</h4>
+      </div>
+      <div class="modal-body">
+            <div class="row">
+              <div class="col-sm-6">
+                  <label class="col-form-label">Country</label>
+                  <select class="form-select">
+                    <option value="">Select Country</option>
+                  </select>
+              </div>
+              <div class="col-sm-6">
+                <label class="col-form-label">City</label>
+                <select class="form-select">
+                  <option value="">Select City</option>
+                </select>
+              </div>
+            </div>
+            <div class="form-group">
+                <label class="col-form-label">Mission Title</label>
+                <input type="text" class="form-control" placeholder="Enter Mission Title">
+            </div>
+            <div class="form-group">
+              <label class="col-form-label">Mission Description</label>
+              <textarea class="form-control" row="3" placeholder="Enter your message"></textarea>
+            </div>
+            <div class="form-group">
+              <label class="col-form-label">Mission Organisation Name</label>
+              <input type="text" class="form-control" placeholder="Enter mission organisation name">
+            </div>
+            <div class="form-group">
+              <label class="col-form-label">Mission Organisation Detail</label>
+              <textarea class="form-control" row="3" placeholder="Enter your message"></textarea>
+            </div>
+            <div class="form-group">
+              <label class="col-form-label">Start Date</label>
+              <input type="date" class="form-control" placeholder="Select start date">
+            </div>
+            <div class="form-group">
+              <label class="col-form-label">End Date</label>
+              <input type="date" class="form-control" placeholder="Select end date">
+            </div>
+            <div class="form-group">
+              <label class="col-form-label">Total seats</label>
+              <input type="text" class="form-control" placeholder="Enter total seats">
+            </div>
+            <div class="form-group">
+              <label class="col-form-label">Mission registration deadline</label>
+              <input type="text" class="form-control" placeholder="Enter mission registration deadline">
+            </div>
+            <div class="form-group">
+              <label class="col-form-label">Mission Theme</label>
+                  <select class="form-select">
+                    <option value="">Select mission theme</option>
+                  </select>
+            </div>
+            <div class="form-group">
+              <label class="col-form-label">Mission Skills</label>
+                  <select class="form-select">
+                    <option value="">Select mission skills</option>
+                  </select>
+            </div>
+            <div class="form-group">
+                <label class="col-form-label">Mission Images</label>
+                <div class="Neon Neon-theme-dragdropbox">
+                  <input style="z-index: 999; opacity: 0; width: 320px; height: 200px; position: absolute; right: 0px; left: 0px; margin-right: auto; margin-left: auto;" name="files[]" id="filer_input2" multiple="multiple" type="file">
+                   <div class="Neon-input-dragDrop">
+                     <div class="Neon-input-inner">
+                       <div class="Neon-input-icon">
+                         <i class="fa fa-upload"></i>
+                       </div>
+                       <div class="Neon-input-text">
+                         <h6>Upload image here</h6>
+                       </div>
+                     </div>
+                   </div>
+               </div>
+            </div>
+            <div class="form-group">
+              <label class="col-form-label">Mission Documents</label>
+                  <div class="Neon Neon-theme-dragdropbox">
+                     <input style="z-index: 999; opacity: 0; width: 320px; height: 200px; position: absolute; right: 0px; left: 0px; margin-right: auto; margin-left: auto;" name="files[]" id="filer_input2" multiple="multiple" type="file">
+                      <div class="Neon-input-dragDrop">
+                        <div class="Neon-input-inner">
+                          <div class="Neon-input-icon">
+                            <i class="fa fa-upload"></i>
+                          </div>
+                          <div class="Neon-input-text">
+                            <h6>Upload resume here or click</h6>
+                          </div>
+                        </div>
+                      </div>
+                  </div>
+            </div>
+            <div class="form-group">
+              <label class="col-form-label">Mission Avilability</label>
+                  <select class="form-select">
+                    <option value="">Select mission avilability</option>
+                  </select>
+            </div>
+      </div>
+      <div class="modal-footer" style="display: block;">
+        <button type="button" class="btnCancel" (click)="closePopup()"><span class="Cancel"> Cancel</span> </button>
+        <button type="button" class="btnSave"><span class="Save">Save</span></button>
+      </div>
+    </div>
+  </div>
+</div>

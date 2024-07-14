@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\Data_Logic_Layer\\Migrations\\20240708080449_CreateUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data_Logic_Layer\\Migrations\\20240708080449_CreateUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\gtu summer internship\\day - 6 task (curd operation)\\ciplatformwebapi_v1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\gtu summer internship\\day - 6 task (curd operation)\\data_logic_layer\\daladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\daladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\gtu summer internship\\day - 6 task (curd operation)\\ciplatformwebapi_v1\\ciplatformwebapi_v1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\ciplatformwebapi_v1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\gtu summer internship\\day - 6 task (curd operation)\\data_logic_layer\\dallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\dallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\gtu summer internship\\day - 6 task (curd operation)\\business_logic_layer\\baladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\baladminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\gtu summer internship\\day - 6 task (curd operation)\\ciplatformwebapi_v1\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\gtu summer internship\\day - 6 task (curd operation)\\ciplatformwebapi_v1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\gtu summer internship\\day - 6 task (curd operation)\\data_logic_layer\\entity\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\entity\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\gtu summer internship\\day - 6 task (curd operation)\\data_logic_layer\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\gtu summer internship\\day - 6 task (curd operation)\\business_logic_layer\\jwtservice\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\jwtservice\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\gtu summer internship\\day - 6 task (curd operation)\\ciplatformwebapi_v1\\ciplatformwebapi_v1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\ciplatformwebapi_v1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\gtu summer internship\\day - 6 task (curd operation)\\ciplatformwebapi_v1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|c:\\gtu summer internship\\day - 6 task (curd operation)\\ciplatformwebapi_v1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B17E080-9FCA-4306-A951-305D4088A2EE}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|c:\\gtu summer internship\\day - 6 task (curd operation)\\business_logic_layer\\ballogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66CE13B6-9EB2-4BB9-8E4C-13F56EE2FD4F}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\ballogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\gtu summer internship\\day - 6 task (curd operation)\\data_logic_layer\\entity\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\entity\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\gtu summer internship\\day - 6 task (curd operation)\\data_logic_layer\\migrations\\20240703060628_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\migrations\\20240703060628_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\gtu summer internship\\day - 6 task (curd operation)\\data_logic_layer\\data_logic_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\data_logic_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\gtu summer internship\\day - 6 task (curd operation)\\data_logic_layer\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|c:\\gtu summer internship\\day - 6 task (curd operation)\\data_logic_layer\\migrations\\20240705053916_table-userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64607068-6413-43BA-A26E-C6B2177366EC}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\migrations\\20240705053916_table-userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240708080449_CreateUserTable.cs",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\Data_Logic_Layer\\Migrations\\20240708080449_CreateUserTable.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Migrations\\20240708080449_CreateUserTable.cs",
+              "ToolTip": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\Data_Logic_Layer\\Migrations\\20240708080449_CreateUserTable.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Migrations\\20240708080449_CreateUserTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T08:04:50.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DALAdminUser.cs",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\Data_Logic_Layer\\DALAdminUser.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\DALAdminUser.cs",
+              "ToolTip": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\Data_Logic_Layer\\DALAdminUser.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\DALAdminUser.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:39:23.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BALAdminUser.cs",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\Business_Logic_Layer\\BALAdminUser.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\BALAdminUser.cs",
+              "ToolTip": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\Business_Logic_Layer\\BALAdminUser.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\BALAdminUser.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:38:29.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminUserController.cs",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\CIPlatFormWebApi_V1\\Controllers\\AdminUserController.cs",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Controllers\\AdminUserController.cs",
+              "ToolTip": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\CIPlatFormWebApi_V1\\Controllers\\AdminUserController.cs",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Controllers\\AdminUserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:40:20.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240705053916_table-userdetail.cs",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\Data_Logic_Layer\\Migrations\\20240705053916_table-userdetail.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Migrations\\20240705053916_table-userdetail.cs",
+              "ToolTip": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\Data_Logic_Layer\\Migrations\\20240705053916_table-userdetail.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Migrations\\20240705053916_table-userdetail.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCoAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:39:17.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\Business_Logic_Layer\\JWTService\\JwtService.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\JWTService\\JwtService.cs",
+              "ToolTip": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\Business_Logic_Layer\\JWTService\\JwtService.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\JWTService\\JwtService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:39:37.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\CIPlatFormWebApi_V1\\Program.cs",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Program.cs",
+              "ToolTip": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\CIPlatFormWebApi_V1\\Program.cs",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAD4vxcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T05:41:53.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\CIPlatFormWebApi_V1\\appsettings.json",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\appsettings.json",
+              "ToolTip": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\CIPlatFormWebApi_V1\\appsettings.json",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T05:41:23.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CIPlatFormWebApi_V1.http",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.http",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.http",
+              "ToolTip": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.http",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-08T07:41:02.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DALLogin.cs",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\Data_Logic_Layer\\DALLogin.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\DALLogin.cs",
+              "ToolTip": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\Data_Logic_Layer\\DALLogin.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\DALLogin.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T06:21:21.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BALLogin.cs",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\Business_Logic_Layer\\BALLogin.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\BALLogin.cs",
+              "ToolTip": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\Business_Logic_Layer\\BALLogin.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\BALLogin.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwCQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T06:16:05.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\CIPlatFormWebApi_V1\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\CIPlatFormWebApi_V1\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T06:11:30.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\CIPlatFormWebApi_V1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\CIPlatFormWebApi_V1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T05:42:21.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\Data_Logic_Layer\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Entity\\User.cs",
+              "ToolTip": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\Data_Logic_Layer\\Entity\\User.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Entity\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T05:50:22.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\Data_Logic_Layer\\Entity\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Entity\\AppDbContext.cs",
+              "ToolTip": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\Data_Logic_Layer\\Entity\\AppDbContext.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Entity\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T05:56:26.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CIPlatFormWebApi_V1.csproj",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj",
+              "ToolTip": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T06:36:36.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240703060628_Initial.cs",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\Data_Logic_Layer\\Migrations\\20240703060628_Initial.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Migrations\\20240703060628_Initial.cs",
+              "ToolTip": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\Data_Logic_Layer\\Migrations\\20240703060628_Initial.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Migrations\\20240703060628_Initial.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T06:06:28.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResponseResult.cs",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\Data_Logic_Layer\\Entity\\ResponseResult.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Entity\\ResponseResult.cs",
+              "ToolTip": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\Data_Logic_Layer\\Entity\\ResponseResult.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Entity\\ResponseResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T06:09:18.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Data_Logic_Layer.csproj",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\Data_Logic_Layer\\Data_Logic_Layer.csproj",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Data_Logic_Layer.csproj",
+              "ToolTip": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\Data_Logic_Layer\\Data_Logic_Layer.csproj",
+              "RelativeToolTip": "Data_Logic_Layer\\Data_Logic_Layer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T05:53:18.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\Data_Logic_Layer\\Entity\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Entity\\BaseEntity.cs",
+              "ToolTip": "C:\\GTU Summer Internship\\Day - 6 Task (CURD operation)\\Data_Logic_Layer\\Entity\\BaseEntity.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Entity\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T05:50:35.223Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

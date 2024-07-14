@@ -1,0 +1,119 @@
+<div class="container-fluid">
+  <app-sidebar></app-sidebar>
+   <div class="content">
+    <app-header></app-header>
+      <div class="info">
+        <div class="card">
+            <div class="card-header">
+              Update Mission
+            </div>
+            <div class="card-body">
+              <form [formGroup]="editMissionForm">
+                <div>
+                    <div class="row"><input type="hidden" formControlName="id">
+                      <div class="col-sm-6">
+                          <label class="col-form-label">Country</label>
+                          <select class="form-select" (change)="CityList($event)" formControlName="countryId">
+                            <option *ngFor="let item of countryList" value="{{item.value}}">  {{item.text}}</option>
+                          </select>
+                          <span class="text-danger" *ngIf="countryId.invalid && (countryId.touched || formValid)">
+                            Please Select Country
+                          </span>
+                      </div>
+                    <div class="col-sm-6">
+                      <label class="col-form-label">City</label>
+                      <select class="form-select" formControlName="cityId">
+                        <option value="">Select City</option>
+                        <option *ngFor="let item of cityList" value="{{item.value}}">{{item.text}}</option>
+                      </select>
+                      <span class="text-danger" *ngIf="cityId.invalid && (cityId.touched || formValid)">
+                        Please Select City
+                      </span>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-sm-6">
+                      <label class="col-form-label">Mission Title</label>
+                      <input type="text" class="form-control" formControlName="missionTitle" placeholder="Enter mission title">
+                      <span class="text-danger" *ngIf="missionTitle.invalid && (missionTitle.touched || formValid)">
+                        Please Enter Mission Title
+                      </span>
+                    </div>
+                    <div class="col-sm-6">
+                      <label class="col-form-label">Mission Theme</label>
+                      <select class="form-select" formControlName="missionThemeId">
+                        <option *ngFor="let item of missionThemeList" value="{{item.value}}">{{item.text}}</option>
+                      </select>
+                      <span class="text-danger" *ngIf="missionThemeId.invalid && (missionThemeId.touched || formValid)">
+                        Please Select Mission Theme
+                      </span>
+                      </div>
+                  </div>
+                   <div class="row">
+                    <div class="col-sm-6">
+                      <label class="col-form-label">Mission Description</label>
+                      <textarea class="form-control" row="3" placeholder="Enter your message" formControlName="missionDescription"></textarea>
+                      <span class="text-danger" *ngIf="missionDescription.invalid && (missionDescription.touched || formValid)">
+                        Please Enter Mission Description
+                      </span>
+                    </div>
+            
+                   </div>
+                   <div class="row">
+                    <div class="col-sm-6">
+                      <label class="col-form-label">Start Date</label>
+                      <input type="date" placeholder="Select StartDate" formControlName="startDate" class="form-control">
+                      <span class="text-danger" *ngIf="startDate.invalid && (startDate.touched || formValid)">
+                        Please Select StartDate
+                      </span>
+                    </div>
+                    <div class="col-sm-6">
+                      <label class="col-form-label">End Date</label>
+                      <input type="date" placeholder="Select EndDate" formControlName="endDate" class="form-control">
+                      <span class="text-danger" *ngIf="endDate.invalid && (endDate.touched || formValid)">
+                        Please Select EndDate
+                      </span>
+                    </div>
+               </div>
+                    <div class="row">
+                      <div class="col-sm-6">
+                        <label class="col-form-label">Mission Images</label>
+                        <div class="dropZone">
+                              <div class="text-wrapper">
+                                <div style="text-align: center;">
+                                    <img src="assets/Img/drag-and-drop.png" alt="No Image"  (click)="selectImage.click()" style="cursor: pointer;">
+                                    <input type="file" class="form-control" multiple #selectImage style="display: none;" formControlName="missionImages" (change)="OnSelectedImage($event)">
+                                  </div>
+                                </div>
+                        </div>
+                        <span class="text-danger" *ngIf="missionImages.invalid && (missionImages.touched || formValid)">
+                          Please Select Image
+                        </span>
+                      </div>
+                      <div class="col-sm-6">
+                        <label class="col-form-label">Mission Skills</label>
+                        <select class="form-select skills" formControlName="missionSkillId" multiple="multiple">
+                          <option *ngFor="let item of missionSkillList" value="{{item.value}}">{{item.text}}</option>
+                        </select>
+                        <span class="text-danger" *ngIf="missionSkillId.invalid && (missionSkillId.touched || formValid)">
+                          Please Select Mission SKill
+                        </span>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-sm-1 pt-2" *ngFor="let items of imageListArray">
+                        <img src="{{items}}" style="width:95px;max-width: 95px important;height:95px;max-height: 95px !important;" onerror="this.src='assets/NoImg.png'" alt="" class="img-thumbnail position-relative">
+                        <!-- <span style="position:relative;"><button class="btn btnremove btn-outline-secondary" (click)="OnRemoveImage(items)">x</button></span> -->
+                      </div>
+                    </div>
+                </div>
+              </form>
+            </div>
+        </div>
+        <div class="row justify-content-end mt-4">
+          <button class="btnCancel" (click)="OnCancel()" ><span class="cancel">Cancel</span></button>
+          <button class="btnSave" (click)="OnSubmit()"><span class="save">Save</span></button>
+        </div>
+     </div>
+   </div>
+ </div>
